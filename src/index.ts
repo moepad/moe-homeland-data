@@ -11,8 +11,6 @@ axiosRetry(axios, {
 });
 
 (async () => {
-	console.log(`Start time: ${new Date().toISOString()}`);
-
 	const partlist = ['banner-slider', 'topics-acgn', 'topics-weekly-bangumi', 'topics-vtubers', 'topics-music', 'topics-memes', 'topics-others'];
 
 	async function getData(part: string): Promise<string> {
@@ -35,8 +33,12 @@ axiosRetry(axios, {
 		});
 		
 		await Promise.all(partlist.map(async (part) => {
-			const newData: string = JSON.stringify(await getData(part), null, '  ');
-			files.push({ path: `data/${part}.json`, content: newData });
+			const path: string = `data/${part}.json`;
+			const content: string = JSON.stringify(await getData(part), null, '  ');
+			files.push({
+				path,
+				content,
+			});
 		}));
 
 		const { data: tree } = await octokit.request('POST /repos/{owner}/{repo}/git/trees', {
@@ -53,7 +55,7 @@ axiosRetry(axios, {
 		const { data: commit } = await octokit.request('POST /repos/{owner}/{repo}/git/commits', {
 			owner,
 			repo,
-			message: 'auto: test',
+			message: `auto: update data at ${new Date().toISOString()}`,
 			tree: tree.sha,
 			parents: [sha],
 		});
@@ -68,6 +70,4 @@ axiosRetry(axios, {
 	} catch (error) {
 		console.error('Error:', error);
 	}
-
-	console.log(`End time: ${new Date().toISOString()}`);
 })();
