@@ -1,0 +1,32 @@
+{
+  "index": [
+    {
+      "id": "banner-slider",
+      "label": "banner-slider",
+      "pages": [
+        {
+          "title": "广告位招租",
+          "externalUrl": "https://app.moegirl.org.cn/contact/?from=moe-homeland",
+          "description": "萌娘百科目前接受多渠道广告定制业务，涵盖背投广告、插屏广告、banner、视频合作、App 开屏等广告类型。让您轻松触达目标用户，长期合作与多渠道投放可提供额外优惠及服务。",
+          "imageSrc": "https://img.moegirl.org.cn/common/f/fb/%E8%90%8C%E5%A8%98%E7%99%BE%E7%A7%91%E5%B9%BF%E5%91%8A%E4%BD%8D%E6%8B%9B%E7%A7%9F.png"
+        },
+        {
+          "id": "20230606-hcollege",
+          "title": "魂器学院",
+          "externalUrl": "https://l.tapdb.net/ZdpdCRdh?from=moe-homeland",
+          "description": "《魂器学院》魂器学院×永雏塔菲联动即将开启",
+          "imageSrc": "https://storage.moegirl.org.cn/console-plus/uploads/2023/06/06/f3c0f76c71278d59a900dc32fc2bf6ab.png",
+          "enableFrom": "2023-06-06T18:00:00+08:00",
+          "enableTo": "2023-06-13T17:59:59+08:00",
+          "isAdvertisement": true
+        },
+        {
+          "title": "下载萌娘百科App",
+          "externalUrl": "https://app.moegirl.org.cn/?autoDownload=true&from=moe-homeland-banner",
+          "description": "快来下载属于自己的“萌力探测器”吧~",
+          "imageSrc": "https://app.moegirl.org.cn/insight-assets/images/20230413-moepad/800x300.png"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "index": [
+    {
+      "id": "7oskew",
+      "label": "番总论",
+      "pages": [
+        {
+          "title": "番剧",
+          "description": "番剧是中国大陆对于日本连载动画（包括连载中动画和已完结动画）的一种称谓。",
+          "imageSrc": ""
+        },
+        {
+          "title": "表番",
+          "imageSrc": ""
+        },
+        {
+          "title": "里番",
+          "description": "里番是宅用语中对于特定的动画节目的一种称呼，与“表番”相对。在11区和中国，在11区宅和中华圈宅之中，“里番”一词有着不同的解释。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/56/53414.jpg/300px-53414.jpg",
+          "imageAlt": "53414.jpg"
+        },
+        {
+          "title": "新番",
+          "description": "新番是宅用语中对于日本最近推出（或即将推出）的动画的一种称呼，与“旧番”相对。",
+          "imageSrc": ""
+        },
+        {
+          "title": "旧番",
+          "description": "旧番是中文宅文化用语之一，其概念与新番相对，通常指已经完结的TV动画剧集。",
+          "imageSrc": ""
+        },
+        {
+          "title": "生肉",
+          "description": "生肉指的是未经过翻译的外语作品，对应词汇是熟肉。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/40/%E6%BC%AB%E7%94%BB%E7%94%9F%E8%82%89.jpeg/212px-%E6%BC%AB%E7%94%BB%E7%94%9F%E8%82%89.jpeg",
+          "imageAlt": "漫画生肉.jpeg"
+        },
+        {
+          "title": "熟肉",
+          "description": "熟肉指的是经过翻译的外语作品，对应词汇是生肉。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/dd/%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E7%86%9F%E8%82%89.jpeg/216px-%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E7%86%9F%E8%82%89.jpeg",
+          "imageAlt": "日本漫画熟肉.jpeg"
+        },
+        {
+          "title": "泡面番",
+          "description": "泡面番是中文宅圈对于单集长度很短的动画的一种称呼。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0d/37997455_p0.png/266px-37997455_p0.png",
+          "imageAlt": "37997455_p0.png"
+        },
+        {
+          "title": "卖歌番",
+          "description": "卖歌番，又称音乐番，是具有大量衍生歌曲的作品的戏称。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/e9/Sif2019_all.jpg/300px-Sif2019_all.jpg",
+          "imageAlt": "Sif2019_all.jpg"
+        },
+        {
+          "title": "霸权番",
+          "description": "霸权番（覇権アニメ）是指在某些方面取得顶端的霸权地位的新番。最常用的用法有两种，一种是销量霸权，一种是B站霸权。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/72/Sakamoto_desu_ga_Anime_KV.png/212px-Sakamoto_desu_ga_Anime_KV.png",
+          "imageAlt": "Sakamoto_desu_ga_Anime_KV.png"
+        },
+        {
+          "title": "子供番",
+          "description": "子供番，在中国内地，大部分90前的人士都称呼为动画片，即低幼动画，是宅圈对于专门供孩子们观看的番的一种称呼。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/84/Happygoat.jpg/300px-Happygoat.jpg",
+          "imageAlt": "Happygoat.jpg"
+        },
+        {
+          "title": "弃番",
+          "description": "弃番是指追番途中因某些原因选择放弃追番的行为。一般带有一定感情色彩。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/9d/Episode_3_is_where_people_decide_if_they%27ll_keep_watching_or_not.png/300px-Episode_3_is_where_people_decide_if_they%27ll_keep_watching_or_not.png",
+          "imageAlt": "Episode_3_is_where_people_decide_if_they'll_keep_watching_or_not.png"
+        }
+      ]
+    },
+    {
+      "id": "w5s6yk",
+      "label": "周边",
+      "pages": [
+        {
+          "title": "漫展",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1c/C62.jpg/300px-C62.jpg",
+          "imageAlt": "C62.jpg"
+        },
+        {
+          "title": "Cosplay",
+          "description": "Cosplay（和制英语：costume + play）可以是指：",
+          "imageSrc": ""
+        },
+        {
+          "title": "女仆咖啡厅",
+          "description": "女仆咖啡厅可以指：",
+          "imageSrc": ""
+        },
+        {
+          "title": "同人志",
+          "description": "同人志，日本自出版作品的术语，通常是指杂志/漫画/小说/画册。同人志通常是业余爱好者的工作。同人志一词意指一群有共同目的或兴趣的人出版的刊物。其主要分销方式是通过常规的同人大会，其中最大的一个叫做Comic Market（简称Comiket（コミケ）或 CM）。其实大多数都是R-18的本子吧！",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/8a/32996691.jpg/238px-32996691.jpg",
+          "imageAlt": "32996691.jpg"
+        },
+        {
+          "title": "手办",
+          "description": "手办，原意指未涂装树脂模件套件（英文：Garage Kits），后来泛指收藏性人物模型，也可能指汽车、建筑物、视频、植物、昆虫、古生物或空想事物的模型。后两项也常被称作人形或figure，手办/人形在中文地区主要指以ACGN角色为原型而制作的人物模型类动漫周边，由于ACGN爱好者（死宅  宅男）越来越多，人形的质量与艺术性也越来越高，人形的收藏圈也日益扩大。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5c/%E8%96%99%E5%88%87%E7%BB%98%E9%87%8C%E5%A5%88%E6%89%8B%E5%8A%9E.jpeg/267px-%E8%96%99%E5%88%87%E7%BB%98%E9%87%8C%E5%A5%88%E6%89%8B%E5%8A%9E.jpeg",
+          "imageAlt": "薙切绘里奈手办.jpeg"
+        },
+        {
+          "title": "模型",
+          "description": "模型是指用于观赏或表演的，按照实物的形状或结构，以一定的比例制造的物品。对于人类或者拟人形态的模型，请参考人偶。",
+          "imageSrc": ""
+        },
+        {
+          "title": "抱枕",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/62/%E6%8A%B1%E6%9E%95.gif/300px-%E6%8A%B1%E6%9E%95.gif",
+          "imageAlt": "抱枕.gif"
+        },
+        {
+          "title": "等身大",
+          "description": "等身大（日语：等身大（とうしん‐だい））是一个日语借词。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d7/Miya_use.jpg/223px-Miya_use.jpg",
+          "imageAlt": "Miya_use.jpg"
+        },
+        {
+          "title": "痛车",
+          "description": "痛车是指在轿车等交通工具上，用贴纸或喷漆等方式将ACG人物装饰而成的车辆。“痛车”不仅有小轿车，还可以有“痛巴士（痛バス)”“痛电车（痛電車（いたでんしゃ）)”“痛自行车（痛チャリ（いたチャリ）)”“痛摩托车（痛単車（いたんしゃ））”，甚至“痛地铁”“痛飞机”等。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/56/2019spaanime.jpg/186px-2019spaanime.jpg",
+          "imageAlt": "2019spaanime.jpg"
+        },
+        {
+          "title": "恐怖谷理论",
+          "description": "恐怖谷是关于人类对机器人和非人类物体的感觉的假设，由日本机器人专家森昌弘于1970年提出。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/af/%E6%81%90%E6%80%96%E8%B0%B7.jpg/300px-%E6%81%90%E6%80%96%E8%B0%B7.jpg",
+          "imageAlt": "恐怖谷.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tkkzbx",
+      "label": "ACG从业者",
+      "pages": [
+        {
+          "title": "声优",
+          "description": "声优是一个日语词汇，指用声音来进行表演的人。相当于中文的配音演员、配音员，英语中称为Voice Actor/Actress。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/63/Pixiv_51123136.jpg/211px-Pixiv_51123136.jpg",
+          "imageAlt": "Pixiv_51123136.jpg"
+        },
+        {
+          "title": "画师",
+          "description": "画师是画家的另一种称呼，多见于中国古代，现代中国画师通常指以绘画为职业的人，包括以绘制大量生产画作（行货画）为生的人，经验和技术较浅的多称为“画工”或“画匠”。本条目介绍的是日本所说的画师（中文可译作插画家）。特别适用于日本ACG行业中从事同人志创作的同人创作者，以及从事Galgame原画的原画师。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/e2/AnimeExpo2014_SAO.jpg/300px-AnimeExpo2014_SAO.jpg",
+          "imageAlt": "AnimeExpo2014_SAO.jpg"
+        },
+        {
+          "title": "漫画家",
+          "description": "漫画家，是指以创作漫画为职业的人。漫画家这个称呼包括创作单幅漫画、四格漫画、连环漫画、漫画书和视觉文学的人。漫画创作有时并不是个人完成，是以工作室来完成，一般主笔画家称为漫画家，漫画的剧本创作者称为漫画作者（Comics writers，日本称为漫画原作者），而参与作画没有参与创作的称为漫画助手。",
+          "imageSrc": ""
+        },
+        {
+          "title": "Template:ACG音乐家",
+          "displayTitle": "音乐家",
+          "description": "本模板是ACG音乐家的大家族模板，按汉语拼音／字母排序，欢迎修订增添人物。",
+          "imageSrc": ""
+        },
+        {
+          "title": "Template:ACG歌手",
+          "displayTitle": "歌手",
+          "description": "ACG歌手索引，欢迎随时修订。不收录已在声优索引中的人物，如水树奈奈。不收录仅参与到ACG歌唱组合中的个人，如chelly。但收录虽然在ACG歌唱组合活动但也进行独立活动的人物，如大石昌良。不收录多栖艺人中的人物，如周笔畅。坂井泉水表示已故人物。斜体字表示已经停止活动。当前按首字母排序。",
+          "imageSrc": ""
+        },
+        {
+          "title": "Template:ACG歌唱组合",
+          "displayTitle": "歌唱组合",
+          "description": "ACG歌唱组合大家族模板，活跃于ACG作品中和演唱OP/ED/IN的歌唱组合们，他/她们的名字记录在这里。个人力量有限，欢迎随时修订。",
+          "imageSrc": ""
+        },
+        {
+          "title": "VOCALOID职人",
+          "displayTitle": "VOCALOID P",
+          "description": "VOCALOID职人是指主要使用VOCALOID软件制作歌曲并在网站投稿的音乐人。很多情况下被称为“ボカロP”（VOCALOID P）。",
+          "imageSrc": ""
+        },
+        {
+          "title": "Template:日本脚本家",
+          "displayTitle": "脚本家",
+          "description": "本模板是关于日本脚本家（编剧）的大家族模板，欢迎随时修订。本模板现分类包括“动画编剧”、“游戏编剧”、“漫画编剧”。其中“动画编剧”部分嵌套了子模板{{日本动画脚本家}}。如发现同一人在不同分类下出现，请不必在意，是因该人同兼多职造成的。注：部分轻小说家同时也是游戏脚本家、漫画原作家，本模板中对于脚本作品较多的（或知名的）也予以收录。漫画编剧项目中不列出漫画家（自编自画），而只列出漫画原作家（漫画脚本作家）。部分漫画家同时也是漫画原作家（为其他漫画作品编剧），本模板中对于脚本作品较多的（或知名的）也予以收录。嵌入该模板的主名字空间页面会自动添加分类:编剧，如需去除请添加nocate=1。",
+          "imageSrc": ""
+        },
+        {
+          "title": "Template:动画导演",
+          "displayTitle": "动画导演",
+          "description": "本模板收录各个国家和地区的动画导演，欢迎随时修订。（日本部分嵌套了子模板{{日本动画导演}}）",
+          "imageSrc": ""
+        },
+        {
+          "title": "监督",
+          "description": "在日文中，監督（かんとく）指管理和负责人、或指导者。在影视、动画等行业中，单独提及“监督”通常指的是导演，如动画监督（アニメ監督）即指动画导演。除了导演之外，动画业界中还有很多带“监督”二字的职位，比如：音响监督（音響監督）：音响指导。美术监督（美術監督）：美术指导。作画监督（作画監督）：作画指导。监督可以是指：监督(插画家)————日本插画家。监督(电器街的漫画店)————水安里所创作的漫画《电器街的漫画店》及其衍生作品的登场角色。监督(白荆回廊)————游戏《白荆回廊》的主角。",
+          "imageSrc": ""
+        },
+        {
+          "title": "系列构成",
+          "description": "系列构成（日语：シリーズ構成，英语：Series Composition）是外来语，意即“总编剧”，是影视作品（多为电视系列动画）的职位之一，负责进行统合、整理、修改分集剧本。",
+          "imageSrc": ""
+        },
+        {
+          "title": "配音导演",
+          "description": "配音导演，是指在动画、影视剧等有声作品中，指导、规范配音演员配音的一种职业。职位与日本的“音响监督”类似。但在大多数情况下，音响监督同时还负有音乐音效等的选曲编排等职责，而配音导演则专门负责配音员配音方面的指导。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/9e/%E9%98%BF%E6%9D%B0.png/222px-%E9%98%BF%E6%9D%B0.png",
+          "imageAlt": "阿杰.png"
+        },
+        {
+          "title": "作画监督",
+          "description": "作画监督(英语：animation director, key animation supervisor)对原画与动画进行检查并修正。通常简称为“作监”。",
+          "imageSrc": ""
+        },
+        {
+          "title": "音响监督",
+          "description": "音响监督（英语：Sound Direction，日语：音響監督、おんきょうかんとく），又称“音效指导”、“录音监督”、“音响演出”，是指在动画和游戏等作品中，负责语音方面演出的工作人员。为了方便起见，在国外的电视剧、电影、动画等用来指代“日本语吹替作品的演出家”这一概念。是日本独有的职业。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/b8/Inanami_Yoshikazu.jpg/300px-Inanami_Yoshikazu.jpg",
+          "imageAlt": "Inanami_Yoshikazu.jpg"
+        }
+      ]
+    },
+    {
+      "id": "uk7olm",
+      "label": "ACG从业组织",
+      "pages": [
+        {
+          "title": "Template:动画公司",
+          "displayTitle": "动画公司",
+          "description": "本模板是动画公司的大家族模板，并收录了部分较为活跃的动画工作室。欢迎随时修订。一般按拼音、字母排序。（括号）表示现为某公司或某集团所属。下划线表示因各种原因已停止动画制作事业。（例：①宣布解散、破产清算等。②被合并后不再以原名义制作动画。）",
+          "imageSrc": ""
+        },
+        {
+          "title": "Template:Galgame公司",
+          "displayTitle": "Galgame公司",
+          "description": "各种Galgame公司。若有遗漏或未来再有补充，欢迎随时编辑。由于Galgame公司太过繁多，对于以下类型的公司，暂不予收录：制作具有露骨性描写标题作品的公司，其他制作拔作的公司酌情收录；仅制作R-18G级别重口味作品的公司；只制作过少数几部作品且均不知名的公司。相关模板：{{游戏公司}}",
+          "imageSrc": ""
+        },
+        {
+          "title": "Template:ACG社团",
+          "displayTitle": "ACG社团",
+          "description": "ACG相关的知名同人社团的汇总。包括后来改为商业化公司的原同人社团，以及分别用商业和同人两种名义独立从事两方面工作的社团。同人社团数量庞大，本模板优先收录具有知名作品的社团。关于以创作VOCALOID歌曲为主的同人社团，请添加至{{VOCALOID职人}}中的对应位置。各组按①纯数字、②英文和汉语拼音混合 的顺序排列。欢迎随时编辑补充。可参考http://bangumi.tv/附：番组计划中的person中个人与社团同时存在，因此在参考时请务必确认对象为独立制作人抑或社团。单人社团亦视为社团。",
+          "imageSrc": ""
+        }
+      ]
+    },
+    {
+      "id": "ufv07s",
+      "label": "游戏平台",
+      "pages": [
+        {
+          "title": "Category:PlayStation 5游戏",
+          "displayTitle": "PlayStation 5",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/81/PS5%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%9B%BE.jpg/280px-PS5%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%9B%BE.jpg"
+        },
+        {
+          "title": "Category:Xbox Series X/S游戏",
+          "displayTitle": "Xbox Series X/S",
+          "description": "本分类应该仅包含针对Xbox Series X/S进行开发或优化的游戏。向下兼容的游戏请分类至原始平台。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d7/Xbox_logo_%282019%29.svg/99px-Xbox_logo_%282019%29.svg.png"
+        },
+        {
+          "title": "Category:Nintendo Switch游戏",
+          "displayTitle": "Nintendo Switch",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/c2/Nintendo_Switch_Logo_new.svg/280px-Nintendo_Switch_Logo_new.svg.png"
+        },
+        {
+          "title": "Category:PlayStation 4游戏",
+          "displayTitle": "PlayStation 4",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/a7/PlayStation_4.jpg/280px-PlayStation_4.jpg"
+        },
+        {
+          "title": "Category:Xbox One游戏",
+          "displayTitle": "Xbox one",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/b4/Xboxone%E7%B3%BB%E5%88%97.jpg/280px-Xboxone%E7%B3%BB%E5%88%97.jpg"
+        },
+        {
+          "title": "Category:Windows游戏",
+          "displayTitle": "PC",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/e7/Windows_11%E5%A8%98_2.png/300px-Windows_11%E5%A8%98_2.png"
+        },
+        {
+          "title": "Category:IOS游戏",
+          "displayTitle": "IOS",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/fa/Apple_logo_black.svg/50px-Apple_logo_black.svg.png"
+        },
+        {
+          "title": "Category:Android游戏",
+          "displayTitle": "安卓",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1a/29919698.jpg/280px-29919698.jpg"
+        }
+      ]
+    }
+  ]
+}
