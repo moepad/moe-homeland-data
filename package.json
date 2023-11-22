@@ -19,7 +19,7 @@
     "typescript": "^5.3.2"
   },
   "dependencies": {
-    "@octokit/core": "^5.0.1",
+    "@octokit/core": "^5.0.2",
     "@types/node": "^20.9.4",
     "axios": "^1.6.2",
     "axios-retry": "^3.9.1",
