@@ -6,9 +6,17 @@ updates:
       interval: daily
       time: "22:15"
       timezone: Asia/Shanghai
+    groups:
+      npm:
+        patterns:
+          - "*"
   - package-ecosystem: github-actions
     directory: /
     schedule:
       interval: daily
       time: "22:15"
       timezone: Asia/Shanghai
+    groups:
+      gha:
+        patterns:
+          - "*"
