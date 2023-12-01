@@ -1,4 +1,3 @@
-import { Buffer } from 'node:buffer';
 import process from 'node:process';
 import { Octokit } from '@octokit/core';
 import axios from 'axios';
@@ -39,8 +38,8 @@ axiosRetry(axios, {
 			const { data: { sha } } = await octokit.request('POST /repos/{owner}/{repo}/git/blobs', {
 				owner,
 				repo,
-				content: Buffer.from(content).toString('base64'),
-				encoding: 'base64' as const,
+				content,
+				encoding: 'utf-8' as const,
 			});
 			files.push({
 				path,
