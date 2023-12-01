@@ -3,7 +3,7 @@ import { readdirSync, mkdirSync } from 'node:fs'
 import { readFile, writeFile } from 'node:fs/promises'
 import { resolve } from 'node:path'
 
-const DATA_DIR = resolve(__dirname, '../../public/data/')
+const DATA_DIR = resolve(__dirname, '../../data/')
 const OUT_DIR = resolve(__dirname, '.output-json2table')
 
 try {
