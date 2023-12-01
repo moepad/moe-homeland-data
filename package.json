@@ -5,6 +5,7 @@
   "engines": {
     "node": ">= 20.*"
   },
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "lint": "eslint src --exit-on-fatal-error --max-warnings 0",
