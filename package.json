@@ -8,19 +8,23 @@
   "scripts": {
     "build": "tsc",
     "lint": "eslint src --exit-on-fatal-error --max-warnings 0",
-    "format": "eslint src --fix"
+    "format": "eslint src --fix",
+    "gen:table2json": "tsx scripts/PageDataTransformer/tableToJson.ts",
+    "gen:json2table": "tsx scripts/PageDataTransformer/jsonToTable.ts"
   },
   "license": "CC BY-NC-SA 3.0",
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.10.1",
     "@typescript-eslint/eslint-plugin": "^6.13.1",
     "eslint": "^8.54.0",
     "eslint-plugin-import": "^2.29.0",
-    "typescript": "^5.3.2"
+    "tsx": "^4.6.1",
+    "typescript": "^5.3.2",
+    "wiki-saikou": "^3.2.1"
   },
   "dependencies": {
     "@octokit/core": "^5.0.2",
-    "@types/node": "^20.10.1",
     "axios": "^1.6.2",
     "axios-retry": "^4.0.0",
     "fs-extra": "^11.2.0"
