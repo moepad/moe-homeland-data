@@ -24,7 +24,7 @@ axiosRetry(axios, {
 	});
 	const owner = 'moepad';
 	const repo = 'zh-mainpage';
-	const files: { path: string; content: string; }[] = [];
+	const files: { path: string; content: string; sha: string }[] = [];
 
 	try {
 		const { data: { object: { sha } } } = await octokit.request('GET /repos/{owner}/{repo}/git/ref/heads/main', {
@@ -35,9 +35,16 @@ axiosRetry(axios, {
 		await Promise.all(partlist.map(async (part) => {
 			const path: string = `data/${part}.json`;
 			const content: string = JSON.stringify(await getData(part), null, '  ');
+			const { data: { sha } } = await octokit.request('POST /repos/{owner}/{repo}/git/blobs', {
+				owner,
+				repo,
+				content,
+				encoding: 'utf-8' as const,
+			});
 			files.push({
 				path,
 				content,
+				sha,
 			});
 		}));
 
@@ -48,7 +55,8 @@ axiosRetry(axios, {
 			tree: files.map((file) => ({
 				path: file.path,
 				mode: '100644' as const,
-				content: file.content,
+				type: 'blob' as const,
+				sha: file.sha,
 			})),
 		});
 
