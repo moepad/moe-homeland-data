@@ -1,4 +1,4 @@
-import process from 'process';
+import process from 'node:process';
 import { Octokit } from '@octokit/core';
 import axios from 'axios';
 import axiosRetry from 'axios-retry';
