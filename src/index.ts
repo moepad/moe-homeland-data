@@ -24,13 +24,14 @@ axiosRetry(axios, {
 	});
 	const owner = 'moepad';
 	const repo = 'zh-mainpage';
+	const ref = 'heads/main';
 	const files: { path: string; content: string; sha: string }[] = [];
 
 	try {
 		const { data: { object: { sha } } } = await octokit.git.getRef({
 			owner,
 			repo,
-			ref: 'heads/main',
+			ref,
 		});
 		
 		await Promise.all(partlist.map(async (part) => {
@@ -72,7 +73,7 @@ axiosRetry(axios, {
 		await octokit.git.updateRef({
 			owner,
 			repo,
-			ref: 'heads/main',
+			ref,
 			sha: commit.sha,
 		});
 	
