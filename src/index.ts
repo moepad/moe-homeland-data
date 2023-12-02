@@ -15,8 +15,13 @@ axiosRetry(axios, {
 
 	async function getData(part: string): Promise<string> {
 		const url = `https://storage.moegirl.org.cn/homeland/data/${part}.json`;
-		const { data } = await axios.get(url);
-		return data;
+		try {
+			const { data } = await axios.get(url);
+			return data;
+		} catch (error) {
+			console.error(`Error: ${part} - ${error}`);
+			throw error;
+		}
 	}
 
 	const octokit = new Octokit({
@@ -25,7 +30,7 @@ axiosRetry(axios, {
 	const owner = 'moepad';
 	const repo = 'zh-mainpage';
 	const ref = 'heads/main';
-	const files: { path: string; content: string; sha: string }[] = [];
+	const files: { path: string; sha: string }[] = [];
 
 	try {
 		const { data: { object: { sha } } } = await octokit.git.getRef({
@@ -45,7 +50,6 @@ axiosRetry(axios, {
 			});
 			files.push({
 				path,
-				content,
 				sha,
 			});
 		}));
@@ -75,6 +79,7 @@ axiosRetry(axios, {
 			repo,
 			ref,
 			sha: commit.sha,
+			force: true,
 		});
 	
 		console.log('Successfully!');
