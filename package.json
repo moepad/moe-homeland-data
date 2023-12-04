@@ -25,6 +25,7 @@
     "wiki-saikou": "^3.2.1"
   },
   "dependencies": {
+    "@octokit/plugin-retry": "^6.0.1",
     "@octokit/rest": "^20.0.2",
     "axios": "^1.6.2",
     "axios-retry": "^4.0.0",

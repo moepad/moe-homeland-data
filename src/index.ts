@@ -1,4 +1,5 @@
 import process from 'node:process';
+import { retry } from '@octokit/plugin-retry';
 import { Octokit } from '@octokit/rest';
 import axios from 'axios';
 import axiosRetry from 'axios-retry';
@@ -24,7 +25,7 @@ axiosRetry(axios, {
 		}
 	}
 
-	const octokit = new Octokit({
+	const octokit = new (Octokit.plugin(retry))({
 		auth: process.env.GITHUB_TOKEN,
 	});
 	const owner = 'moepad';
@@ -38,8 +39,7 @@ axiosRetry(axios, {
 			repo,
 			ref,
 		});
-		
-		await Promise.all(partlist.map(async (part) => {
+		for (const part of partlist) {
 			const path: string = `data/${part}.json`;
 			const content: string = JSON.stringify(await getData(part), null, '  ');
 			const { data: { sha } } = await octokit.git.createBlob({
@@ -52,7 +52,7 @@ axiosRetry(axios, {
 				path,
 				sha,
 			});
-		}));
+		}
 
 		const { data: tree } = await octokit.git.createTree({
 			owner,
@@ -73,7 +73,7 @@ axiosRetry(axios, {
 			tree: tree.sha,
 			parents: [sha],
 		});
-	
+
 		await octokit.git.updateRef({
 			owner,
 			repo,
@@ -81,7 +81,7 @@ axiosRetry(axios, {
 			sha: commit.sha,
 			force: true,
 		});
-	
+
 		console.log('Successfully!');
 	} catch (error) {
 		console.error('Error:', error);
