@@ -15,8 +15,8 @@
   },
   "license": "CC BY-NC-SA 3.0",
   "devDependencies": {
-    "eslint": "^8.54.0",
-    "tsx": "^4.6.1",
+    "eslint": "^8.55.0",
+    "tsx": "^4.6.2",
     "typescript": "^5.3.2",
     "wiki-saikou": "^3.2.1"
   }
