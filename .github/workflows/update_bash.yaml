@@ -1,0 +1,37 @@
+name: Update Data
+
+on:
+  workflow_dispatch:
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+      - name: Download data
+        run: |
+          partlist=('banner-slider' 'topics-acgn' 'topics-weekly-bangumi' 'topics-vtubers' 'topics-music' 'topics-memes' 'topics-others')
+          for part in "${partlist[@]}"
+          do
+            wget -t 5 --retry-connrefused -O "data/$part.json" "https://storage.moegirl.org.cn/homeland/data/$part.json"
+          done
+
+      - name: Update data
+        run: |
+          git add data
+          git commit -m "auto: update data at $(date -u "+%Y-%m-%dT%H:%M:%SZ")"
+          git push
