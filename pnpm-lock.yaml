@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  '@octokit/plugin-retry':
+    specifier: ^6.0.1
+    version: 6.0.1(@octokit/core@5.0.2)
   '@octokit/rest':
     specifier: ^20.0.2
     version: 20.0.2
@@ -395,6 +398,18 @@ packages:
       '@octokit/types': 12.3.0
     dev: false
 
+  /@octokit/plugin-retry@6.0.1(@octokit/core@5.0.2):
+    resolution: {integrity: sha512-SKs+Tz9oj0g4p28qkZwl/topGcb0k0qPNX/i7vBKmDsjoeqnVfFUquqrE/O9oJY7+oLzdCtkiWSXLpLjvl6uog==}
+    engines: {node: '>= 18'}
+    peerDependencies:
+      '@octokit/core': '>=5'
+    dependencies:
+      '@octokit/core': 5.0.2
+      '@octokit/request-error': 5.0.1
+      '@octokit/types': 12.3.0
+      bottleneck: 2.19.5
+    dev: false
+
   /@octokit/request-error@5.0.1:
     resolution: {integrity: sha512-X7pnyTMV7MgtGmiXBwmO6M5kIPrntOXdyKZLigNfQWSEQzVxR4a4vo49vJjTWX70mPndj8KhfT4Dx+2Ng3vnBQ==}
     engines: {node: '>= 18'}
@@ -746,6 +761,10 @@ packages:
 
   /before-after-hook@2.2.3:
     resolution: {integrity: sha512-NzUnlZexiaH/46WDhANlyR2bXRopNg4F/zuSA3OpZnllCUgRaOF2znDioDWrmbNVsuZk6l9pMquQB38cfBZwkQ==}
+    dev: false
+
+  /bottleneck@2.19.5:
+    resolution: {integrity: sha512-VHiNCbI1lKdl44tGrhNfU3lup0Tj/ZBMJB5/2ZbNXRCPuRCO7ed2mgcK4r17y+KB2EfuYuRaVlwNbAeaWGSpbw==}
     dev: false
 
   /brace-expansion@1.1.11:
