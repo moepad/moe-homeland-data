@@ -15,8 +15,8 @@ devDependencies:
     specifier: ^5.3.3
     version: 5.3.3
   wiki-saikou:
-    specifier: ^3.2.1
-    version: 3.2.1
+    specifier: ^3.3.0
+    version: 3.3.0
 
 packages:
 
@@ -305,14 +305,14 @@ packages:
     resolution: {integrity: sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==}
     dev: true
 
-  /@vue/reactivity@3.3.9:
-    resolution: {integrity: sha512-VmpIqlNp+aYDg2X0xQhJqHx9YguOmz2UxuUJDckBdQCNkipJvfk9yA75woLWElCa0Jtyec3lAAt49GO0izsphw==}
+  /@vue/reactivity@3.3.11:
+    resolution: {integrity: sha512-D5tcw091f0nuu+hXq5XANofD0OXnBmaRqMYl5B3fCR+mX+cXJIGNw/VNawBqkjLNWETrFW0i+xH9NvDbTPVh7g==}
     dependencies:
-      '@vue/shared': 3.3.9
+      '@vue/shared': 3.3.11
     dev: true
 
-  /@vue/shared@3.3.9:
-    resolution: {integrity: sha512-ZE0VTIR0LmYgeyhurPTpy4KzKsuDyQbMSdM49eKkMnT5X4VfFBLysMzjIZhLEFQYjjOVVfbvUDHckwjDFiO2eA==}
+  /@vue/shared@3.3.11:
+    resolution: {integrity: sha512-u2G8ZQ9IhMWTMXaWqZycnK4UthG1fA238CD+DP4Dm4WJi5hdUKKLg0RMRaRpDPNMdkTwIDkp7WtD0Rd9BH9fLw==}
     dev: true
 
   /acorn-jsx@5.3.2(acorn@8.11.2):
@@ -943,10 +943,10 @@ packages:
       isexe: 2.0.0
     dev: true
 
-  /wiki-saikou@3.2.1:
-    resolution: {integrity: sha512-CGpxzziylPoQxCVKsEbCZXg4P8Boox6SwSxaCShl2wVSUjYEci2sek75YJLoiv0wWiWkuFMzhV/PjWE3lLU2Iw==}
+  /wiki-saikou@3.3.0:
+    resolution: {integrity: sha512-ToO4czKp7Gqz1CvsNYJAjpG77HC2UrS6FQbT932Khr5i+lcz3iUuJlOn2sSKe/AZq2K+6dRiW0tmM3d1LqRrkg==}
     dependencies:
-      '@vue/reactivity': 3.3.9
+      '@vue/reactivity': 3.3.11
       fexios: 1.5.0
       tslib: 2.6.2
     dev: true
