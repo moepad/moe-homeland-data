@@ -33,10 +33,9 @@ jobs:
       - name: Update data
         run: |
           git add data
-          git commit -m "auto: update data at $(date -u "+%Y-%m-%dT%H:%M:%SZ")"
-          current_branch=$(git symbolic-ref --short HEAD 2>/dev/null)
-          if [ -n "$(git log origin/$current_branch..$current_branch)" ]; then
+          if ! git diff-index --quiet HEAD; then
+              git commit -m "auto: update data at $(date -u "+%Y-%m-%dT%H:%M:%SZ")"
               git push
           else
-              echo "nothing to commit, working tree clean"
+              echo "Nothing to commit, working tree clean, exit."
           fi
