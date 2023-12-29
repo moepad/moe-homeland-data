@@ -1,3 +1,4 @@
+import 'dotenv/config'
 import { BANGUMI_SEASON_TITLE, BANGUMI_SEASON_URL } from '../utils/constants'
 import { mkdirSync, readdirSync } from 'node:fs'
 import { resolve } from 'node:path'
@@ -39,6 +40,9 @@ Promise.all(
             }
           : undefined,
       }).then(async (app) => {
+        if (process.env.MW_USERNAME && process.env.MW_PASSWORD) {
+          await app.login(process.env.MW_USERNAME, process.env.MW_PASSWORD)
+        }
         await app.transform()
         await app.export(output)
         return output

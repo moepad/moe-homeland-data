@@ -1,6 +1,6 @@
+import type { PageListData, PageListMeta } from '../types/PageList'
 import { MwApi } from 'wiki-saikou'
-import { readFile, writeFile } from 'node:fs/promises'
-import { PageListData, PageListMeta } from '../types/PageList'
+import { readFile, writeFile } from 'fs/promises'
 
 export interface TableToJsonOptions {
   apiEndpoint: string
@@ -17,6 +17,10 @@ export class TableToJson {
 
   constructor(readonly content = '', public options: TableToJsonOptions) {
     this.api = new MwApi(options.apiEndpoint)
+  }
+
+  login(username: string, password: string) {
+    return this.api.login(username, password)
   }
 
   static async newFromFile(fileName: string, options: TableToJsonOptions) {
@@ -80,11 +84,21 @@ export class TableToJson {
     return this.data.index[this.data.index.length - 1]
   }
 
-  getData() {
+  toSortedData() {
+    this.data.index.sort((a, b) => {
+      if (!this.options?.indexLabelMap) return 0
+      const aIndex = Object.keys(this.options?.indexLabelMap || {}).indexOf(
+        a.label
+      )
+      const bIndex = Object.keys(this.options?.indexLabelMap || {}).indexOf(
+        b.label
+      )
+      return aIndex - bIndex
+    })
     return this.data
   }
   async export(fileName: string) {
-    return writeFile(fileName, JSON.stringify(this.data, null, 2))
+    return writeFile(fileName, JSON.stringify(this.toSortedData(), null, 2))
   }
 
   /** Utils */
