@@ -1,10 +1,11 @@
 {
-  "name": "zh-mainpage",
+  "name": "moe-homeland-data",
   "description": "moegirlpedia mainpage",
   "main": "index.js",
   "engines": {
     "node": ">= 20.*"
   },
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "lint": "eslint src --exit-on-fatal-error --max-warnings 0",
