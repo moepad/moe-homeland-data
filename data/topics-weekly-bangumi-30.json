@@ -11,13 +11,19 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5e/Tsukimichi_S2_KV.jpg/300px-Tsukimichi_S2_KV.jpg"
         },
         {
+          "title": "公主大人的“拷问”时间",
+          "description": "《公主大人的“拷问”时间》（姫様“拷問”の時間です），又译：公主大人，接下来是“拷问”时间，是春原罗宾逊（原作）和ひらけい（作画）共同创作的漫画。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/bc/Himesama_KV.jpg/300px-Himesama_KV.jpg"
+        },
+        {
           "title": "愚蠢天使与恶魔共舞",
           "description": "《愚蠢天使与恶魔共舞》（日语：愚かな天使は悪魔と踊る）是由アズマサワヨシ创作的一部漫画。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/2e/Kanaten_KV.jpg/300px-Kanaten_KV.jpg"
         },
         {
-          "title": "休假的坏人先生",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/66/Warumonosan_KV.jpg/300px-Warumonosan_KV.jpg"
+          "title": "北海道辣妹贼拉可爱",
+          "description": "《北海道辣妹贼拉可爱》（日语：道産子ギャルはなまらめんこい）是漫画家伊科田海的漫画作品，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0a/Dosankogal_KV.jpg/300px-Dosankogal_KV.jpg"
         },
         {
           "title": "事与愿违的不死冒险者",
@@ -29,16 +35,6 @@
           "displayTitle": "HIGH CARD season2",
           "description": "《HIGH CARD》是由TMS Entertainment、KADOKAWA与Sammy合作推出的多媒体企划。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f1/HIGH_CARD_KV7.jpg/300px-HIGH_CARD_KV7.jpg"
-        },
-        {
-          "title": "暗芝居",
-          "displayTitle": "暗芝居 12期",
-          "description": "暗芝居是2013年起在东京电视台播放的恐怖短篇动画。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/ae/Yamishibai12.jpg/300px-Yamishibai12.jpg"
-        },
-        {
-          "title": "挣扎吧，亚当君",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/dd/Adamkun.jpg/300px-Adamkun.jpg"
         }
       ]
     },
@@ -47,19 +43,19 @@
       "label": "周二",
       "pages": [
         {
-          "title": "公主大人的“拷问”时间",
-          "description": "《公主大人的“拷问”时间》（姫様“拷問”の時間です），又译：公主大人，接下来是“拷问”时间，是春原罗宾逊（原作）和ひらけい（作画）共同创作的漫画。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/bc/Himesama_KV.jpg/300px-Himesama_KV.jpg"
-        },
-        {
-          "title": "北海道辣妹贼拉可爱",
-          "description": "《北海道辣妹贼拉可爱》（日语：道産子ギャルはなまらめんこい）是漫画家伊科田海的漫画作品，并有动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0a/Dosankogal_KV.jpg/300px-Dosankogal_KV.jpg"
+          "title": "通灵王 FLOWERS",
+          "description": "《通灵王 FLOWERS》（日语：シャーマンキングFLOWERS）是由武井宏之创作的漫画。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0a/Shamanking_Flower_KV.webp/300px-Shamanking_Flower_KV.webp.png"
         },
         {
           "title": "反派千金等级99～我是隐藏头目但不是魔王～",
           "description": "《反派千金等级99～我是隐藏头目但不是魔王～》（日语：悪役令嬢レベル99 ～私は裏ボスですが魔王ではありません～；英语：Villainess Level 99 ~I May Be the Hidden Boss But I'm Not the Demon Lord~）是由七夕さとり创作的一部轻小说，并有漫画、动画等衍生作品。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0b/Akuyakulv99_KV2.jpg/300px-Akuyakulv99_KV2.jpg"
+        },
+        {
+          "title": "忍不住了！加密忍者咲耶",
+          "displayTitle": "忍不住了！加密忍者咲耶 贰之章",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/46/Cryptoninja2.png/300px-Cryptoninja2.png"
         }
       ]
     },
@@ -67,11 +63,6 @@
       "id": "wednesday",
       "label": "周三",
       "pages": [
-        {
-          "title": "通灵王 FLOWERS",
-          "description": "《通灵王 FLOWERS》（日语：シャーマンキングFLOWERS）是由武井宏之创作的漫画。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0a/Shamanking_Flower_KV.webp/300px-Shamanking_Flower_KV.webp.png"
-        },
         {
           "title": "欢迎来到实力至上主义的教室",
           "displayTitle": "欢迎来到实力至上主义的教室 第3期",
@@ -85,6 +76,10 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/2e/Tomozaki_S2_KV.jpg/300px-Tomozaki_S2_KV.jpg"
         },
         {
+          "title": "战国妖狐",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/08/Sengoku_Youko_Teaser.jpg/300px-Sengoku_Youko_Teaser.jpg"
+        },
+        {
           "title": "外科医生爱丽丝",
           "description": "《外科医生爱丽丝》（韩语：외과의사 엘리제、日语：外科医エリーゼ）是由yuin创作的一部轻小说，并有动画、漫画等衍生作品。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f7/Surgeon_Elise_KV2.jpg/300px-Surgeon_Elise_KV2.jpg"
@@ -95,14 +90,18 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/74/Mahoako_anime_KV.jpg/300px-Mahoako_anime_KV.jpg"
         },
         {
+          "title": "到了30岁还是处男，似乎会变成魔法师",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/ae/Cherimaho_KV.jpg/300px-Cherimaho_KV.jpg"
+        },
+        {
           "title": "异修罗",
           "description": "《异修罗》（日语：異修羅）是由珪素创作、クレタ的一部轻小说。该小说获这本轻小说真厉害！2021年度单行本·Novels部门第一名，并有动画等衍生作品。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/ae/Ishura_KV2.jpg/300px-Ishura_KV2.jpg"
         },
         {
-          "title": "忍不住了！加密忍者咲耶",
-          "displayTitle": "忍不住了！加密忍者咲耶 贰之章",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/46/Cryptoninja2.png/300px-Cryptoninja2.png"
+          "title": "METALLIC ROUGE",
+          "description": "《METALLIC ROUGE》（日语：メタリックルージュ）是由BONES制作的一部原创动画，于2024年1月播出。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/be/Metallicrouge_KV.jpg/300px-Metallicrouge_KV.jpg"
         }
       ]
     },
@@ -116,8 +115,10 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f4/Delicious_in_Dungeon_KV2.jpg/300px-Delicious_in_Dungeon_KV2.jpg"
         },
         {
-          "title": "战国妖狐",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/08/Sengoku_Youko_Teaser.jpg/300px-Sengoku_Youko_Teaser.jpg"
+          "title": "福星小子",
+          "displayTitle": "福星小子 第2期",
+          "description": "《福星小子》（日语：うる星やつら）是由高桥留美子创作的一部漫画，并有动画、游戏等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/26/Uy_Allstars_2022_KV4.jpg/300px-Uy_Allstars_2022_KV4.jpg"
         },
         {
           "title": "魔都精兵的奴隶",
@@ -125,19 +126,20 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d7/Mabotai_KV.jpg/300px-Mabotai_KV.jpg"
         },
         {
-          "title": "到了30岁还是处男，似乎会变成魔法师",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/ae/Cherimaho_KV.jpg/300px-Cherimaho_KV.jpg"
+          "title": "魔女与野兽",
+          "description": "《魔女与野兽》（日语：魔女と野獣）是由佐竹幸典创作的一部漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/4e/Majo_Yajuu_KV2.jpg/300px-Majo_Yajuu_KV2.jpg"
+        },
+        {
+          "title": "秒杀外挂太强了，异世界的家伙们根本就不是对手。",
+          "description": "《秒杀外挂太强了，异世界的家伙们根本就不是对手。》（日语：即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。）是由藤孝刚志执笔撰写，成濑千里绘制插画，由EARTH STAR Entertainment出版的小说，并有漫画、动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/a3/Sokushicheat_KV.jpg/300px-Sokushicheat_KV.jpg"
         },
         {
           "title": "SYNDUALITY",
           "displayTitle": "SYNDUALITY Noir(第2季度)",
           "description": "《SYNDUALITY》是由neco担任角色原案、形部一平担任机甲设计的大型SF多媒体企划，并有动画、游戏等衍生作品。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0a/Synduality_KV2.jpg/300px-Synduality_KV2.jpg"
-        },
-        {
-          "title": "METALLIC ROUGE",
-          "description": "《METALLIC ROUGE》（日语：メタリックルージュ）是由BONES制作的一部原创动画，于2024年1月播出。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/be/Metallicrouge_KV.jpg/300px-Metallicrouge_KV.jpg"
         },
         {
           "title": "勇气爆发BANG BRAVERN",
@@ -147,6 +149,10 @@
         {
           "title": "月刊妄想科学",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d5/Moh_KV.jpg/300px-Moh_KV.jpg"
+        },
+        {
+          "title": "名汤《异世界之汤》开拓记 ～40岁左右的温泉迷的转生地是悠闲的温泉天国～",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/b0/Isekainoyu.jpg/300px-Isekainoyu.jpg"
         }
       ]
     },
@@ -154,12 +160,6 @@
       "id": "friday",
       "label": "周五",
       "pages": [
-        {
-          "title": "福星小子",
-          "displayTitle": "福星小子 第2期",
-          "description": "《福星小子》（日语：うる星やつら）是由高桥留美子创作的一部漫画，并有动画、游戏等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/26/Uy_Allstars_2022_KV4.jpg/300px-Uy_Allstars_2022_KV4.jpg"
-        },
         {
           "title": "大欺诈师",
           "displayTitle": "大欺诈师 razbliuto",
@@ -172,22 +172,25 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1f/Sasaki_to_Pii-chan_KV.jpg/300px-Sasaki_to_Pii-chan_KV.jpg"
         },
         {
-          "title": "魔女与野兽",
-          "description": "《魔女与野兽》（日语：魔女と野獣）是由佐竹幸典创作的一部漫画，并有动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/4e/Majo_Yajuu_KV2.jpg/300px-Majo_Yajuu_KV2.jpg"
+          "title": "百千家的妖怪王子",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/b6/Momochisan_Teaser1.jpg/300px-Momochisan_Teaser1.jpg"
         },
         {
           "title": "最弱的驯养师开启的捡垃圾的旅途。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/19/Saijakutamer_KV.jpg/300px-Saijakutamer_KV.jpg"
         },
         {
-          "title": "秒杀外挂太强了，异世界的家伙们根本就不是对手。",
-          "description": "《秒杀外挂太强了，异世界的家伙们根本就不是对手。》（日语：即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。）是由藤孝刚志执笔撰写，成濑千里绘制插画，由EARTH STAR Entertainment出版的小说，并有漫画、动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/a3/Sokushicheat_KV.jpg/300px-Sokushicheat_KV.jpg"
+          "title": "治愈魔法的错误使用法～奔赴战场的回复要员～",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1b/Chiyumaho_KV2.jpg/300px-Chiyumaho_KV2.jpg"
         },
         {
-          "title": "名汤《异世界之汤》开拓记 ～40岁左右的温泉迷的转生地是悠闲的温泉天国～",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/b0/Isekainoyu.jpg/300px-Isekainoyu.jpg"
+          "title": "碰之道",
+          "description": "《碰之道》（日语：ぽんのみち）是由OLM制作的一部原创动画，于2024年1月5日播出。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1e/Ponomichi_KV2.jpg/300px-Ponomichi_KV2.jpg"
+        },
+        {
+          "title": "Snack Basue",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5a/Snack_Basue_Teaser.jpg/300px-Snack_Basue_Teaser.jpg"
         },
         {
           "title": "超普通县千叶传说",
@@ -198,63 +201,6 @@
     {
       "id": "saturday",
       "label": "周六",
-      "pages": [
-        {
-          "title": "物理魔法使马修",
-          "description": "《物理魔法使马修》（日语：マッシュル-MASHLE-；英语：Mashle: Magic and Muscles）是由甲本一创作的漫画，并有动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/38/Mashle_KV4.jpg/300px-Mashle_KV4.jpg"
-        },
-        {
-          "title": "指尖相触，恋恋不舍",
-          "description": "《指尖相触，恋恋不舍》（日语：ゆびさきと恋々；英语：A Sign of Affection）是由森下suu创作的一部漫画，并有动画、音乐剧等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5c/Yubisaki_KV.jpg/300px-Yubisaki_KV.jpg"
-        },
-        {
-          "title": "婚戒物语",
-          "description": "《婚戒物语》（日语：結婚指輪物語）是由めいびい创作的一部漫画，并有动画等衍生作品。本作于2014年3月25日在《月刊BIG GANGAN》2014年第4号上开始连载。\n原名中的「指轮物语」指的是奇幻小说《魔戒》。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/b5/Talesofweddingrings_KV0.jpg/300px-Talesofweddingrings_KV0.jpg"
-        },
-        {
-          "title": "百千家的妖怪王子",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/b6/Momochisan_Teaser1.jpg/300px-Momochisan_Teaser1.jpg"
-        },
-        {
-          "title": "治愈魔法的错误使用法～奔赴战场的回复要员～",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1b/Chiyumaho_KV2.jpg/300px-Chiyumaho_KV2.jpg"
-        },
-        {
-          "title": "BUCCHIGIRI？！",
-          "description": "《BUCCHIGIRI？！》（日语：ぶっちぎり?!）是由MAPPA制作的一部原创动画，于2024年1月播出。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/27/Bucchigiri_KV.jpg/300px-Bucchigiri_KV.jpg"
-        },
-        {
-          "title": "碰之道",
-          "description": "《碰之道》（日语：ぽんのみち）是由OLM制作的一部原创动画，于2024年1月5日播出。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1e/Ponomichi_KV2.jpg/300px-Ponomichi_KV2.jpg"
-        },
-        {
-          "title": "卡片战斗先导者/动画",
-          "displayTitle": "卡片战斗先导者 DivineZ",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/fe/Vanguard_DivineZ.jpg/300px-Vanguard_DivineZ.jpg"
-        },
-        {
-          "title": "Snack Basue",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5a/Snack_Basue_Teaser.jpg/300px-Snack_Basue_Teaser.jpg"
-        },
-        {
-          "title": "贴满！小狗",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/ad/Harimaware_KV.jpg/300px-Harimaware_KV.jpg"
-        },
-        {
-          "title": "异种最强王图鉴",
-          "displayTitle": "最强王图鉴 ～The Ultimate Battles～",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/16/Saikyooh.jpg/300px-Saikyooh.jpg"
-        }
-      ]
-    },
-    {
-      "id": "sunday",
-      "label": "周日",
       "pages": [
         {
           "title": "我独自升级",
@@ -280,6 +226,50 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/bf/Bokuyaba_S2_KV.jpg/300px-Bokuyaba_S2_KV.jpg"
         },
         {
+          "title": "物理魔法使马修",
+          "description": "《物理魔法使马修》（日语：マッシュル-MASHLE-；英语：Mashle: Magic and Muscles）是由甲本一创作的漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/38/Mashle_KV4.jpg/300px-Mashle_KV4.jpg"
+        },
+        {
+          "title": "指尖相触，恋恋不舍",
+          "description": "《指尖相触，恋恋不舍》（日语：ゆびさきと恋々；英语：A Sign of Affection）是由森下suu创作的一部漫画，并有动画、音乐剧等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5c/Yubisaki_KV.jpg/300px-Yubisaki_KV.jpg"
+        },
+        {
+          "title": "婚戒物语",
+          "description": "《婚戒物语》（日语：結婚指輪物語）是由めいびい创作的一部漫画，并有动画等衍生作品。本作于2014年3月25日在《月刊BIG GANGAN》2014年第4号上开始连载。\n原名中的「指轮物语」指的是奇幻小说《魔戒》。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/b5/Talesofweddingrings_KV0.jpg/300px-Talesofweddingrings_KV0.jpg"
+        },
+        {
+          "title": "最强肉盾的迷宫攻略 ～拥有稀少技能体力9999的肉盾，被勇者队伍辞退了～",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/67/Saikyo_Tank_KV.jpg/300px-Saikyo_Tank_KV.jpg"
+        },
+        {
+          "title": "BUCCHIGIRI？！",
+          "description": "《BUCCHIGIRI？！》（日语：ぶっちぎり?!）是由MAPPA制作的一部原创动画，于2024年1月播出。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/27/Bucchigiri_KV.jpg/300px-Bucchigiri_KV.jpg"
+        },
+        {
+          "title": "卡片战斗先导者/动画",
+          "displayTitle": "卡片战斗先导者 DivineZ",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/fe/Vanguard_DivineZ.jpg/300px-Vanguard_DivineZ.jpg"
+        },
+        {
+          "title": "贴满！小狗",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/ad/Harimaware_KV.jpg/300px-Harimaware_KV.jpg"
+        },
+        {
+          "title": "异种最强王图鉴",
+          "displayTitle": "最强王图鉴 ～The Ultimate Battles～",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/16/Saikyooh.jpg/300px-Saikyooh.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sunday",
+      "label": "周日",
+      "pages": [
+        {
           "title": "狩火之王",
           "displayTitle": "狩火之王 第2季",
           "description": "《狩火之王》（日语：火狩りの王）是由日向理惠子创作、山田章博插画的幻想小说，有动画等衍生作品。",
@@ -292,6 +282,10 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f3/Shinnonkama_S2_KV.jpg/300px-Shinnonkama_S2_KV.jpg"
         },
         {
+          "title": "休假的坏人先生",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/66/Warumonosan_KV.jpg/300px-Warumonosan_KV.jpg"
+        },
+        {
           "title": "轮回七次的恶役千金，在前敌国享受随心所欲的新婚生活",
           "description": "《轮回七次的恶役千金，在前敌国享受随心所欲的新婚生活》（日语：ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する，简称“ルプなな”）是由雨川透子执笔撰写，八美☆わん绘制插画，由OVERLAP出版的小说。有漫画等衍生作品。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/eb/7th_timeloop_KV.jpg/300px-7th_timeloop_KV.jpg"
@@ -302,12 +296,18 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1b/Mohunade_Teaser2.jpg/300px-Mohunade_Teaser2.jpg"
         },
         {
-          "title": "最强肉盾的迷宫攻略 ～拥有稀少技能体力9999的肉盾，被勇者队伍辞退了～",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/67/Saikyo_Tank_KV.jpg/300px-Saikyo_Tank_KV.jpg"
-        },
-        {
           "title": "明治击剑－1874－",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/54/Shochiku_Teaser.png/300px-Shochiku_Teaser.png"
+        },
+        {
+          "title": "暗芝居",
+          "displayTitle": "暗芝居 12期",
+          "description": "暗芝居是2013年起在东京电视台播放的恐怖短篇动画。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/ae/Yamishibai12.jpg/300px-Yamishibai12.jpg"
+        },
+        {
+          "title": "挣扎吧，亚当君",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/dd/Adamkun.jpg/300px-Adamkun.jpg"
         }
       ]
     }
