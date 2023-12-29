@@ -2,6 +2,9 @@ import type { PageListData } from '../types/PageList'
 import { readdirSync, mkdirSync } from 'node:fs'
 import { readFile, writeFile } from 'node:fs/promises'
 import { resolve } from 'node:path'
+import { URL, fileURLToPath } from 'node:url'
+
+const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
 const DATA_DIR = resolve(__dirname, '../../data/')
 const OUT_DIR = resolve(__dirname, '.output-json2table')

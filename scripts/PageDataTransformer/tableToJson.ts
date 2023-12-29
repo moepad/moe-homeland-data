@@ -2,7 +2,10 @@ import 'dotenv/config'
 import { BANGUMI_SEASON_TITLE, BANGUMI_SEASON_URL } from '../utils/constants'
 import { mkdirSync, readdirSync } from 'node:fs'
 import { resolve } from 'node:path'
+import { URL, fileURLToPath } from 'node:url'
 import { TableToJson } from './Transformer'
+
+const __dirname = fileURLToPath(new URL('.', import.meta.url))
 
 try {
   mkdirSync(resolve(__dirname, '.output-table2json'))
