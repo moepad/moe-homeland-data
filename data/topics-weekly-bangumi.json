@@ -21,10 +21,12 @@
         },
         {
           "title": "米奇与达利 恶童物语",
+          "description": "《米奇与达利 恶童物语》（日语：ミギとダリ）是日本女性漫画家佐野菜见所创作的漫画，连载于角川书店《Harta》刊，2017年7月15日至2021年11月15日连载，共7卷。2023年8月5日，原作者佐野菜见因癌症逝世，本作也成为她的生前遗作。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/89/Migi_Dali_Teaser2.jpg/300px-Migi_Dali_Teaser2.jpg"
         },
         {
           "title": "鸭乃桥论的禁忌推理",
+          "description": "《鸭乃桥论的禁忌推理》（日语：鴨乃橋ロンの禁断推理）是由日本漫画家天野明创作的漫画，由2020年10月11日起开始于少年Jump+连载。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/6b/Undead_Unluck_KV2.jpg/300px-Undead_Unluck_KV2.jpg"
         },
         {
@@ -37,7 +39,7 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/24/SHY_KV.jpg/300px-SHY_KV.jpg"
         },
         {
-          "title": "我的推是坏人大小姐。",
+          "title": "我推是坏人大小姐",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/ca/Wataoshi_Anime_KV3.jpg/300px-Wataoshi_Anime_KV3.jpg"
         },
         {
@@ -59,7 +61,7 @@
         },
         {
           "title": "圣剑学院的魔剑使",
-          "description": "《圣剑学院的魔剑使》是由志瑞祐创作、遠坂あさぎ插画的一部轻小说。有漫画、动画等衍生作品。",
+          "description": "《圣剑学院的魔剑使》（日语：聖剣学院の魔剣使い）是由志瑞祐创作、遠坂あさぎ插画的一部轻小说。有漫画、动画等衍生作品。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/c1/%E5%9C%A3%E5%89%91%E5%AD%A6%E9%99%A2%E7%9A%84%E9%AD%94%E5%89%91%E4%BD%BF01.jpg/280px-%E5%9C%A3%E5%89%91%E5%AD%A6%E9%99%A2%E7%9A%84%E9%AD%94%E5%89%91%E4%BD%BF01.jpg"
         },
         {
@@ -73,8 +75,7 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d9/Bproject_S3_KV.jpg/300px-Bproject_S3_KV.jpg"
         },
         {
-          "title": "Paradox Live",
-          "displayTitle": "Paradox Live THE ANIMATION",
+          "title": "Paradox Live THE ANIMATION",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/3e/Paradox_Live_KV.jpg/300px-Paradox_Live_KV.jpg"
         },
         {
@@ -181,6 +182,7 @@
         },
         {
           "title": "仙魔大战",
+          "description": "仙魔大战（日语：ビックリマン）是乐天公司于1977年的生产的巧克力糖果。该产品以附赠“惊喜”贴纸而闻名，利用普通以及稀有的贴纸来吸引消费者，并有动画、漫画等衍生作品。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/57/BIKKURI_MEN_KV.jpg/300px-BIKKURI_MEN_KV.jpg"
         }
       ]
@@ -199,7 +201,7 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/9e/Yuzukisan_KV.jpg/300px-Yuzukisan_KV.jpg"
         },
         {
-          "title": "大小姐和看门犬",
+          "title": "大小姐与看门犬",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/21/Ojoutobankenkun_KV3.jpg/300px-Ojoutobankenkun_KV3.jpg"
         },
         {
@@ -287,11 +289,11 @@
         {
           "title": "影之诗FLAME",
           "displayTitle": "影之诗FLAME 七影篇",
-          "description": "《影之诗FLAME》是动画《影之诗》的第2期动画作品，分2部。\n第1部于2022年4月2日开始在东京电视台系列播出，共50话。\n第2部“七影篇”于2023年7月8日开播。",
+          "description": "《影之诗FLAME》是动画《影之诗》的第2期动画作品，分3部。\n第1部于2022年4月2日开始在东京电视台系列播出，共50话。第2部“七影篇”于2023年7月8日开播，共25话。第3部“方舟篇”于2024年4月开播。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/67/Shadowverse_Seven_Shadow.jpg/300px-Shadowverse_Seven_Shadow.jpg"
         },
         {
-          "title": 575311,
+          "title": "希望的力量～大人的光之美少女%2723～",
           "displayTitle": "希望的力量～大人的光之美少女'23～",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d1/P_main_primary_pc2.jpg/300px-P_main_primary_pc2.jpg"
         },
@@ -329,7 +331,7 @@
         {
           "title": "间谍过家家",
           "displayTitle": "间谍过家家 第二季",
-          "description": "《间谍过家家》（英语：SPY×FAMILY；日语：スパイファミリー）是远藤达哉连载的漫画，并有动画、小说、音乐剧等衍生作品。",
+          "description": "《间谍过家家》（英语：SPY×FAMILY；日语：スパイファミリー；韩语：스파이 패밀리）是远藤达哉连载的漫画，并有动画、小说、音乐剧等衍生作品。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/8e/Spy_Family_S2_KV1.jpg/300px-Spy_Family_S2_KV1.jpg"
         }
       ]
@@ -344,7 +346,7 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/9b/Ragna_Crimison_mv3.jpg/300px-Ragna_Crimison_mv3.jpg"
         },
         {
-          "title": "堤亚穆帝国物语～从断头台开始，公主重生后的逆转人生～",
+          "title": "亚穆帝国物语～从断头台开始，公主重生后的逆转人生～",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/6c/Tearmoon_Teaser.jpg/428px-Tearmoon_Teaser.jpg"
         },
         {
@@ -367,12 +369,12 @@
         },
         {
           "title": "猪肝倒是热热再吃啊",
-          "description": "《猪肝倒是热热再吃啊》（日语：豚のレバーは加熱しろ）是由逆井卓马原作，远坂あさぎ插画的一部轻小说，并有漫画、动画等衍生作品。",
+          "description": "《猪肝倒是热热再吃啊》（日语：豚のレバーは加熱しろ）是由逆井卓马原作，遠坂あさぎ插画的一部轻小说，并有漫画、动画等衍生作品。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/dd/Butaliver_Teaser5.jpg/300px-Butaliver_Teaser5.jpg"
         },
         {
           "title": "我们的雨色协议",
-          "description": "《我们的雨色协议》（日语：僕らの雨いろプロトコル）是由Quad制作的一部原创动画。",
+          "description": "《我们的雨色协议》（日语：僕らの雨いろプロトコル）是由Quad制作的一部原创动画，于2023年10月播出。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/8a/Bokuame_KV.jpg/300px-Bokuame_KV.jpg"
         },
         {
@@ -420,11 +422,12 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/c7/Captain_Tsubasa_2023_KV02.jpg/300px-Captain_Tsubasa_2023_KV02.jpg"
         },
         {
-          "title": "OVERTAKE！",
+          "title": "OVERTAKE!",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/7b/OVERTAKE_kv4.jpg/424px-OVERTAKE_kv4.jpg"
         },
         {
           "title": "凹凸魔女的母女故事",
+          "description": "《凹凸魔女的母女故事》（日语：でこぼこ魔女の親子事情）是ピロヤ创作的一部漫画，并有动画等衍生作品。",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/67/DEKOBOKO_KV4.jpg/300px-DEKOBOKO_KV4.jpg"
         },
         {
@@ -438,6 +441,6 @@
   "meta": {
     "header": "本周新番",
     "readMoreText": "日本2023年秋季动画",
-    "readMoreUrl": "/index.php?title=%E6%97%A5%E6%9C%AC2023%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%8A%A8%E7%94%BB&from=moe-homeland"
+    "readMoreUrl": "/index.php?utm_medium=bangumi_list&title=%E6%97%A5%E6%9C%AC2023%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%8A%A8%E7%94%BB&utm_source=moe_homeland"
   }
 }
