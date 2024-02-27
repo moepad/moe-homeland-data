@@ -16,17 +16,17 @@
   "license": "CC BY-NC-SA 3.0",
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
-    "@types/node": "^20.11.19",
-    "@typescript-eslint/eslint-plugin": "^7.0.1",
-    "dotenv": "^16.4.4",
-    "eslint": "^8.56.0",
+    "@types/node": "^20.11.20",
+    "@typescript-eslint/eslint-plugin": "^7.0.2",
+    "dotenv": "^16.4.5",
+    "eslint": "^8.57.0",
     "eslint-plugin-import": "^2.29.1",
     "tsx": "^4.7.1",
     "typescript": "^5.3.3",
     "wiki-saikou": "^3.3.1"
   },
   "dependencies": {
-    "@octokit/core": "^5.1.0",
+    "@octokit/core": "^6.0.1",
     "axios": "^1.6.7",
     "axios-retry": "^4.0.0",
     "fs-extra": "^11.2.0"
