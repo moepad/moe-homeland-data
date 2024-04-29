@@ -17,11 +17,11 @@
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.12.7",
-    "@typescript-eslint/eslint-plugin": "^7.7.0",
+    "@typescript-eslint/eslint-plugin": "^7.7.1",
     "dotenv": "^16.4.5",
-    "eslint": "^9.1.0",
+    "eslint": "^9.1.1",
     "eslint-plugin-import": "^2.29.1",
-    "tsx": "^4.7.2",
+    "tsx": "^4.7.3",
     "typescript": "^5.4.5",
     "wiki-saikou": "^3.3.1"
   },
