@@ -16,12 +16,12 @@
   "license": "CC BY-NC-SA 3.0",
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
-    "@types/node": "^22.1.0",
-    "@typescript-eslint/eslint-plugin": "^8.0.0",
+    "@types/node": "^22.2.0",
+    "@typescript-eslint/eslint-plugin": "^8.0.1",
     "dotenv": "^16.4.5",
-    "eslint": "^9.8.0",
+    "eslint": "^9.9.0",
     "eslint-plugin-import": "^2.29.1",
-    "tsx": "^4.16.5",
+    "tsx": "^4.17.0",
     "typescript": "^5.5.4",
     "wiki-saikou": "^3.3.1"
   },
