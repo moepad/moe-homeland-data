@@ -7,7 +7,7 @@
         {
           "title": "彩虹社",
           "description": "ただ謳おう Virtual to LIVE",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/96/Nijisanji_Logo_Vertical.jpg/280px-Nijisanji_Logo_Vertical.jpg"
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/8f/Nijisanji_Logo2c.png/240px-Nijisanji_Logo2c.png"
         },
         {
           "title": "VirtuaReal",
@@ -17,7 +17,7 @@
         {
           "title": "虚研社",
           "description": "梦的船桨不会停息 Best Best Sailing",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0d/%E8%99%9A%E7%A0%94%E7%A4%BE%E6%96%B0logo.jpg/280px-%E8%99%9A%E7%A0%94%E7%A4%BE%E6%96%B0logo.jpg"
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/de/%E8%99%9A%E7%A0%94%E7%A4%BE%E5%8E%BB%E5%BA%95logo.png/240px-%E8%99%9A%E7%A0%94%E7%A4%BE%E5%8E%BB%E5%BA%95logo.png"
         },
         {
           "title": "A-SOUL",
@@ -30,14 +30,15 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0c/%E5%B8%95%E9%87%8C%E4%B8%AA%E4%BA%BALogo.png/280px-%E5%B8%95%E9%87%8C%E4%B8%AA%E4%BA%BALogo.png"
         },
         {
-          "title": "hOuOu",
+          "title": "HOuOu",
+          "displayTitle": "hOuOu",
           "description": "一起闪闪发光吧！",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/94/LogohOuOu.png/420px-LogohOuOu.png"
         },
         {
           "title": "神椿",
           "description": "Everything starts from here",
-          "imageSrc": "https://img.moegirl.org.cn/common/2/26/KAMITSUBAKI_STUDIO_logo.jpg"
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/fd/KAMITSUBAKI_STUDIO.svg/240px-KAMITSUBAKI_STUDIO.svg.png"
         },
         {
           "title": "P-SP",
@@ -47,17 +48,17 @@
         {
           "title": "Noripro",
           "description": "大切な仲間と一緒に みんなの夢を叶える場所",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/4d/Noripro_W.jpg/420px-Noripro_W.jpg"
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/65/Noripro.svg/320px-Noripro.svg.png"
         },
         {
           "title": "VShojo",
           "description": "Being you is the best avatar you could have",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/fc/Vshojo_logo.png/420px-Vshojo_logo.png"
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d7/VShojo.svg/320px-VShojo.svg.png"
         },
         {
           "title": "卟啵电竞",
           "description": "0.2秒の物語",
-          "imageSrc": "https://img.moegirl.org.cn/common/d/dd/VSPO_%E6%96%B9%E5%BD%A2Logo.jpg"
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/64/VSPO%21_icon.svg/240px-VSPO%21_icon.svg.png"
         },
         {
           "title": "星巡学园",
@@ -65,14 +66,14 @@
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5a/Hoshimeguri_Gakuen.webp/420px-Hoshimeguri_Gakuen.webp.png"
         },
         {
-          "title": "Chaoslive",
+          "title": "ChaosLive",
           "description": "保持初心 一同自由、快乐地一边享受着过程一边朝目标努力",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/71/ChaosLive%E5%9B%BE%E6%A0%87.png/420px-ChaosLive%E5%9B%BE%E6%A0%87.png"
         },
         {
           "title": "猫邮社",
           "description": "写一封温柔信件 打破时空的界限 让羁绊连接每一个次元",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/e1/%E7%8C%AB%E9%82%AE%E7%A4%BElogo.png/420px-%E7%8C%AB%E9%82%AE%E7%A4%BElogo.png"
+          "imageSrc": "https://img.moegirl.org.cn/common/4/40/%E7%8C%AB%E9%82%AE%E7%A4%BE.png"
         },
         {
           "title": "虚研学园",
@@ -82,12 +83,18 @@
         {
           "title": "四禧丸子",
           "description": "光芒耀眼 无法隐藏！",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/25/Sixiwanzi_temp.jpg/420px-Sixiwanzi_temp.jpg"
+          "imageSrc": "https://img.moegirl.org.cn/common/8/88/%E5%9B%9B%E7%A6%A7%E4%B8%B8%E5%AD%90.png"
         },
         {
           "title": "Elf of Era",
           "description": "精灵齐聚 可爱升级",
           "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/19/EOE%E5%A5%B3%E5%9B%A2%EF%BC%88logo-%E6%8F%8F%E8%BE%B9%EF%BC%89.png/420px-EOE%E5%A5%B3%E5%9B%A2%EF%BC%88logo-%E6%8F%8F%E8%BE%B9%EF%BC%89.png"
+        },
+        {
+          "title": "Hololive",
+          "displayTitle": "hololive",
+          "description": "新的日常 就在身边",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/93/Hololive_Icon.svg/188px-Hololive_Icon.svg.png"
         }
       ]
     },
