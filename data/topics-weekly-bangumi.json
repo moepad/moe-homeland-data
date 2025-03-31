@@ -5,36 +5,44 @@
       "label": "周一",
       "pages": [
         {
-          "title": "我的美好婚事",
-          "displayTitle": "我的美好婚事 第二季",
-          "description": "《我的美好婚事》是由顎木亚久弥执笔撰写，月岡月穗绘制插画，归属于富士見L文庫，由KADOKAWA出版的小说。\n小说繁中版由台湾角川出版，译名为《我的幸福婚约》。\nWeb版曾在成为小说家吧连载，后因作者账号被BAN而删除。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/4c/Watakon_S2_KV.jpg/300px-Watakon_S2_KV.jpg"
+          "title": "Summer Pockets",
+          "description": "《Summer Pockets》（日语：サマーポケッツ，日语简称：サマポケ，中文名：夏日口袋）是由Key（“Key社”）制作的一部全年龄恋爱冒险游戏作品。2021年12月29日于Key Channel直播活动中宣布动画化。",
+          "imageSrc": "https://img.moegirl.org.cn/common/e/e3/Summer_Pockets_Anime_KV.jpg"
         },
         {
-          "title": "这公司有我喜欢的人",
-          "description": "《这公司有我喜欢的人》是榎本あかまる于2019年3月7日起在周刊杂志《Morning》上连载的职场恋爱漫画。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/c0/Kaishani_Sukinahito_KV.jpg/300px-Kaishani_Sukinahito_KV.jpg"
+          "title": "测不准的阿波连同学",
+          "displayTitle": "测不准的阿波连同学 第二季",
+          "description": "《测不准的阿波连同学》（日语：阿波連さんははかれない）是由水あさと创作的一部漫画。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/64/Aharen_Anime_S2_KV.webp/300px-Aharen_Anime_S2_KV.webp.png"
         },
         {
-          "title": "平凡上班族到异世界当上了四天王的故事",
-          "description": "《平凡上班族到异世界当上了四天王的故事》（日语：サラリーマンが異世界に行ったら四天王になった話；英语：Headhunted to Another World: From Salaryman to Big Four!/Office Worker Has Become \"Big Four\" in the Different World.）是由ベニガシラ原作，村光作画的一部漫画，并有动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0a/Salaryman_Teaser2.jpg/300px-Salaryman_Teaser2.jpg"
+          "title": "正义使者-我的英雄学院之非法英雄-",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d6/Vigilante_Teaser3.webp/300px-Vigilante_Teaser3.webp.png"
         },
         {
-          "title": "全修。",
-          "description": "《全修。》是由动画监督山崎光惠、脚本家上野贵美子与动画公司MAPPA原作的一部原创电视动画，于2025年1月播出。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/18/Zenshu_KV.jpg/300px-Zenshu_KV.jpg"
+          "title": "随兴旅 -That's Journey-",
+          "description": "《随兴旅 -That's Journey-》（日语：ざつ旅-That's Journey-）是由石坂ケンタ创作的一部漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/31/Zatsutabi_KV.jpg/300px-Zatsutabi_KV.jpg"
         },
         {
-          "title": "魔法使的约定",
-          "description": "《魔法使的约定》（日语：魔法使いの約束）是由coly制作的女性向手机游戏。有漫画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d0/Mahoyaku_KV2.jpg/300px-Mahoyaku_KV2.jpg"
+          "title": "爱有点沉重的暗黑精灵从异世界紧追不放",
+          "description": "《爱有点沉重的暗黑精灵从异世界紧追不放》（日语：ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた；英语：Yandere Dark Elf: She Chased Me All the Way From Another World!）是由中乃空创作的一部漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/fd/Aiomodarkelf_KV.jpg/300px-Aiomodarkelf_KV.jpg"
         },
         {
-          "title": "暗芝居",
-          "displayTitle": "暗芝居 第十四季",
-          "description": "暗芝居是2013年起在东京电视台播放的恐怖短篇动画。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/bc/Yamishibai14.jpg/300px-Yamishibai14.jpg"
+          "title": "快藏起来！玛琪娜同学!!",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/db/Makinasan_Teaser.png/300px-Makinasan_Teaser.png"
+        },
+        {
+          "title": "搞笑漫画日和",
+          "displayTitle": "搞笑漫画日和GO",
+          "description": "《搞笑漫画日和》（日语：ギャグマンガ日和；英语：Good Day for Gag Manga/Gag Manga Biyori）是由增田幸助创作的一部漫画，并有动画、舞台剧等衍生作品。\n是中日许多网络流行语和表情包的来源。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/bd/GagbimangaGO.jpg/300px-GagbimangaGO.jpg"
+        },
+        {
+          "title": "格外性感的深见",
+          "description": "《格外性感的深见》（日语：やたらやらしい深見くん；英语：Unexpectedly Naughty Fukami；法语：Surprise, Fukami est un obsédé au lit !）是由松本あやか创作的一部漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f9/Fukamikun.jpg/300px-Fukamikun.jpg"
         }
       ]
     },
@@ -43,19 +51,39 @@
       "label": "周二",
       "pages": [
         {
-          "title": "Unnamed Memory",
-          "displayTitle": "Unnamed Memory 第二季",
-          "description": "《Unnamed Memory》（日语：アンネームドメモリー）是由古宫九时原作、chibi插画的一部轻小说，并有漫画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/77/Unnamed_Memory_S2_KV.jpg/300px-Unnamed_Memory_S2_KV.jpg"
+          "title": "紫云寺家的孩子们",
+          "description": "《紫云寺家的孩子们》（日语：紫雲寺家の子供たち；英语：The Shiunji Family Children/The Children of Shiunji Family）是由宫岛礼吏创作的一部漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/bf/Shiunjifamily_KV.webp/300px-Shiunjifamily_KV.webp.png"
         },
         {
-          "title": "我的可爱对黑岩目高不管用",
-          "description": "《我的可爱对黑岩目高不管用》（日语：黒岩メダカに私の可愛いが通じない）是由久世兰创作的一部漫画，并有动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/13/Monaxmedaka_KV.jpg/300px-Monaxmedaka_KV.jpg"
+          "title": "直至魔女消逝",
+          "description": "《直至魔女消逝》（日语：ある魔女が死ぬまで；英语：Once Upon A Witch's Death）是由坂创作的一部轻小说，并有漫画、动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/aa/Arumajo_KV.webp/300px-Arumajo_KV.webp.png"
         },
         {
-          "title": "虽然我是注定没落的贵族，闲来无事只好来深究魔法",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/70/Botsurakukizoku_KV2.jpg/300px-Botsurakukizoku_KV2.jpg"
+          "title": "中禅寺老师的灵怪讲义实录 老师会把谜题全都解开的。",
+          "displayTitle": "中禅寺老师的灵怪讲义实录",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/3f/Chuzenji_KV.webp/300px-Chuzenji_KV.webp.png"
+        },
+        {
+          "title": "鬼人幻灯抄",
+          "description": "《鬼人幻灯抄》（日语：鬼人幻燈抄；英语：Sword of the Demon Hunter: Kijin Gentōshō）是由中西モトオ执笔撰写，Tamaki绘制插画，由双叶社出版的小说，并有漫画、动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f4/Kijin_KV.jpg/300px-Kijin_KV.jpg"
+        },
+        {
+          "title": "战斗天赋解析系统",
+          "displayTitle": "#COMPASS2.0",
+          "description": "《战斗天赋解析（(摄理/天命/神意)）系统》（日语：#コンパス 戦闘摂理解析システム）是由NHN PlayArt与DWANGO（niconico的母公司）共同制作并发行的人气日系MOBA游戏。简称#コンパス、#COMPASS、康帕斯或cps康怕死、整蛊野人飞妈系统。\n2016年12月开始在日本运营。繁体服于2017年12月1日上线，2019年12月26日宣布停止服务，于2021年12月20日以「#空帕斯：阵地攻防战」的名义重新开始服务，2023年8月31日再次停止服务。由心动网络代理的简体服于2019年11月20日上线，2021年3月29日正式终止运营原因的话简而言之就是没钱了。\n由于原始的角色和后来追加的原生角色的主题曲均为VOCALOID歌曲，因此在玩家中有不少的VOCALOID受众康救术（康帕斯拯救VOCALOID）、术救康（VOCALOID拯救康帕斯）。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/93/COMPASS2.0_KV.jpg/300px-COMPASS2.0_KV.jpg"
+        },
+        {
+          "title": "海贼王谈恋爱",
+          "description": "《海贼王谈恋爱》，是漫画《海贼王》的官方衍生漫画作品，由伊原大贵创作，有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f9/ONE_PIECE_in_LOVE.jpg/300px-ONE_PIECE_in_LOVE.jpg"
+        },
+        {
+          "title": "竹轮战记～用我的可爱侵略地球～",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/ca/Chikuwa_cycomi.jpg/300px-Chikuwa_cycomi.jpg"
         }
       ]
     },
@@ -64,36 +92,43 @@
       "label": "周三",
       "pages": [
         {
-          "title": "Re:从零开始的异世界生活",
-          "displayTitle": "Re:从零开始的异世界生活 第三季 反击篇",
-          "description": "《Re:从零开始的异世界生活》（日语：Re:ゼロから始める異世界生活）是由长月达平创作的一部轻小说，并有漫画、动画、游戏等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/c1/Re0_%E7%AC%AC%E4%B8%89%E5%AD%A3_%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg/300px-Re0_%E7%AC%AC%E4%B8%89%E5%AD%A3_%E4%B8%BB%E8%A7%86%E8%A7%89%E5%9B%BE.jpg"
+          "title": "机动战士高达 GQuuuuuuX",
+          "description": "《机动战士高达 GQuuuuuuX》（日文：機動戦士Gundam GQuuuuuuX）是由日昇与Khara共同制作，鹤卷和哉担任监督，榎户洋司、庵野秀明担任剧本的一部原创动画作品，于2025年4月8日起在日本电视台系列播出。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/97/Gundam_GQuuuuuuX_KV2.jpeg/300px-Gundam_GQuuuuuuX_KV2.jpeg"
         },
         {
-          "title": "异修罗",
-          "displayTitle": "异修罗 第二季",
-          "description": "《异修罗》（日语：異修羅）是由珪素创作、クレタ的一部轻小说。该小说获这本轻小说真厉害！2021年度单行本·Novels部门第一名，并有漫画、动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/85/Ishura_S2_KV.jpg/300px-Ishura_S2_KV.jpg"
+          "title": "Apocalypse Hotel",
+          "description": "Apocalypse Hotel（アポカリプスホテル），是由Cygames Pictures制作，春藤佳奈担任监督、村越繁担任系列构成的一部原创动画作品，于2025年4月8日放送。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/7a/Apocalypse_Hotel_KV.jpg/300px-Apocalypse_Hotel_KV.jpg"
         },
         {
-          "title": "群花绽放，彷如修罗",
-          "description": "《群花绽放，彷如修罗》（日语：花は咲く、修羅の如く）是由むっしゅ作画，武田綾乃原作的一部漫画，并有动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/ff/Hanashura_KV2.jpg/300px-Hanashura_KV2.jpg"
+          "title": "阳光马达棒球场！",
+          "description": "《阳光马达棒球场！》（日语：ボールパークでつかまえて！；英语：The Catcher in the Ballpark!）是由须贺达郎创作的一部漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/29/Ballpark_KV.jpg/300px-Ballpark_KV.jpg"
         },
         {
-          "title": "作弊技能果实大师～关于我能无限食用吃了就会中毒身亡的技能果实这件事",
-          "displayTitle": "作弊技能果实大师",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/c2/Kinomimaster_KV.webp/300px-Kinomimaster_KV.webp.png"
+          "title": "请穿上内衣吧，鹰峰同学",
+          "description": "《请穿上衣服吧，鹰峰同学》（履いてください、鷹峰さん）是柊裕一在APP连载《狂赌之渊妄》之余，在杂志新开连载的校园喜剧漫画。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/6e/Takaminesan_KV.jpg/300px-Takaminesan_KV.jpg"
         },
         {
-          "title": "终将成为最强炼金术师？",
-          "description": "《终将成为最强炼金术师？》（日语：いずれ最強の錬金術師？；英语：Possibly the Greatest Alchemist of All Time/Someday Will I Be the Greatest Alchemist?）是由小狐丸创作的一部轻小说，并有漫画、动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/84/Izuresaikyo_KV.jpg/300px-Izuresaikyo_KV.jpg"
+          "title": "Your Forma",
+          "description": "《Your Forma》（日语：ユア・フォルマ）是由菊石まれほ原作、野崎つばた插画的一部轻小说。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5d/Your_Forma_Teaser2.webp/300px-Your_Forma_Teaser2.webp.png"
         },
         {
-          "title": "黄昏旅店",
-          "description": "《黄昏旅店》（日语： 誰ソ彼ホテル）是由SEEC创作的一部游戏。\n2022年6月7日，SEEC社官方发布4周年纪念重制版 《黄昏旅店 Re:newal》PV， 并在随后发布了一系列游戏人物介绍PV，后在第十二弹人物介绍PV中正式宣布添加全新游戏人物[羽毛球少女]。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/9f/Tasokarehotel_Teaser.jpg/300px-Tasokarehotel_Teaser.jpg"
+          "title": "华Doll*",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/43/Hanadoll_Teaser.webp/300px-Hanadoll_Teaser.webp.png"
+        },
+        {
+          "title": "莉可丽丝",
+          "displayTitle": "莉可丽丝 Friends are thieves of time.",
+          "description": "《Lycoris Recoil》（中文：莉可丽丝；日語：リコリス・リコイル；略稱：リコリコ）是由A-1 Pictures制作的一部原创动画。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0f/LycoReco_Short.jpg/300px-LycoReco_Short.jpg"
+        },
+        {
+          "title": "全力兔",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d3/Zenryoku_Usagi_2025.jpg/300px-Zenryoku_Usagi_2025.jpg"
         }
       ]
     },
@@ -102,43 +137,49 @@
       "label": "周四",
       "pages": [
         {
-          "title": "BanG Dream! Ave Mujica",
-          "description": "《BanG Dream! Ave Mujica》（bilibili方面译名：《颂乐人偶》）是少女乐团企划《BanG Dream!》旗下的，以Ave Mujica为主角的TV动画。\n本动画为《BanG Dream! It's MyGO!!!!!》的续篇。2023年9月14日，即前篇完结之日宣布制作决定，当日为新月。 \n2024年1月6日，在“Bushiroad新春大発表会2024”上宣布动画于2025年1月播出。2024年10月17日，公开PV2，宣布动画于2025年1月2日播出，并从2024年12月1日起在全球多地举办先行上映会。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/9b/Ave_Mujica_MainVisual.jpg/300px-Ave_Mujica_MainVisual.jpg"
+          "title": "这是你与我的最后战场，或是开创世界的圣战",
+          "displayTitle": "这是你与我的最后战场，或是开创世界的圣战 第二季",
+          "description": "《这是你与我的最后战场，或是开创世界的圣战》（日语：キミと僕の最後の戦場、あるいは世界が始まる聖戦）是由细音启創作、猫锅苍插画的一部轻小说。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/70/Kimitoboku_S2_KV.jpg/300px-Kimitoboku_S2_KV.jpg"
         },
         {
-          "title": "Dr.STONE",
-          "displayTitle": "Dr.STONE SCIENCE FUTURE",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/2a/Dr.STONE_Anime_S4_KV.jpg/300px-Dr.STONE_Anime_S4_KV.jpg"
+          "title": "月出之战",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/06/Moonrise_KV.jpg/300px-Moonrise_KV.jpg"
         },
         {
-          "title": "青春特调蜂蜜柠檬苏打",
-          "description": "《青春特调蜂蜜柠檬苏打》（日语：ハニーレモンソーダ；英语：Honey Lemon Soda）是由村田真优创作的一部漫画，并有真人电影、朗读剧等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1e/Honeylemon_KV.jpg/300px-Honeylemon_KV.jpg"
+          "title": "摇滚乐是淑女的嗜好",
+          "description": "《摇滚乐是淑女的嗜好》（日语：ロックは淑女の嗜みでして；英语：Rock Is a Lady's Modesty）是由福田宏创作的一部漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/ee/Rocklady_KV.jpg/300px-Rocklady_KV.jpg"
         },
         {
-          "title": "不幸职业【鉴定士】实则最强～凭藉在地狱锻链出来的最强【神眼】开无双～",
-          "displayTitle": "不幸职业【鉴定士】实则最强",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/db/Fugukan_KV.jpg/300px-Fugukan_KV.jpg"
+          "title": "忍者×杀手二人组的日常生活",
+          "description": "《忍者×杀手二人组的日常生活》（日语：忍者と殺し屋のふたりぐらし）是由ハンバーガー创作的一部漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f7/Ninkoro_KV0.webp/300px-Ninkoro_KV0.webp.png"
         },
         {
-          "title": "天久鹰央的推理病历表",
-          "description": "《天久鹰央的推理病历表》是由知念实希人创作的一部日本医疗推理题材小说，并有漫画、动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/b5/Atdk_a_KV2.jpg/300px-Atdk_a_KV2.jpg"
+          "title": "外星人沐沐",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/44/Ucyujin_mumu_KV.jpg/300px-Ucyujin_mumu_KV.jpg"
         },
         {
-          "title": "魔法制造者 -异世界魔法的制作方法-",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/94/Magicmaker_KV.webp/300px-Magicmaker_KV.webp.png"
+          "title": "圣女因太过完美不够可爱而被废除婚约并卖到邻国",
+          "description": "《圣女因太过完美不够可爱而被废除婚约并卖到邻国》（日语：完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる）是由冬月光辉创作的一部轻小说，并有漫画、动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d2/Kanpekiseijo_KV0.webp/300px-Kanpekiseijo_KV0.webp.png"
         },
         {
-          "title": "中年男的异世界网购生活",
-          "description": "《中年男的异世界网购生活》（日语：アラフォー男の異世界通販生活）是由朝仓一二三执笔撰写，やまかわ绘制插画，由Tugikuru出版的小说，并有漫画、动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/c3/Arafo_Tsuhan_KV.jpg/300px-Arafo_Tsuhan_KV.jpg"
+          "title": "能瞬间治愈却被当做废物而放逐的天才治疗师，作为地下治疗师快乐地生活着",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/4d/Yamihealer_KV1.jpg/300px-Yamihealer_KV1.jpg"
         },
         {
-          "title": "灰色：幻影扳机",
-          "description": "灰色：幻影扳机（日语：グリザイア：ファントムトリガー）是由FrontWing开发及发行的美少女遊戲。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/44/Grisaia_Phantom_Trigger_the_Animation_TV3.jpg/300px-Grisaia_Phantom_Trigger_the_Animation_TV3.jpg"
+          "title": "最强的国王，第二次的人生要做什么？",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/25/Saikyo2dome_KV.jpg/300px-Saikyo2dome_KV.jpg"
+        },
+        {
+          "title": "未ル 我的未来",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d6/Miru_Anime_KV.jpg/300px-Miru_Anime_KV.jpg"
+        },
+        {
+          "title": "小小光之美少女～Precure Fairies～",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/fb/Precure_Fairies.jpg/300px-Precure_Fairies.jpg"
         }
       ]
     },
@@ -147,41 +188,38 @@
       "label": "周五",
       "pages": [
         {
-          "title": "药师少女的独语",
-          "displayTitle": "药师少女的独语 第二季",
-          "description": "《药师少女的独语》（日语：薬屋のひとりごと）是由日向夏創作、しのとうこ插画的一部轻小说，并有漫画、动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/59/Kusuriyanohitorigoto_S2_KV.jpg/300px-Kusuriyanohitorigoto_S2_KV.jpg"
+          "title": "WIND BREAKER 防风铃",
+          "displayTitle": "WIND BREAKER 防风铃 第二季",
+          "description": "《WIND BREAKER 防风铃》（日语：WIND BREAKER（ウィンドブレイカー））是由にいさとる创作的一部漫画，并有动画、舞台剧等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/c4/Wind_Breaker_S2_KV.png/300px-Wind_Breaker_S2_KV.png"
         },
         {
-          "title": "大叔转生恶役大小姐",
-          "description": "《大叔转生恶役大小姐》（日语：悪役令嬢転生おじさん）是由上山道郎創作的漫画。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/17/Tensei_Ojisan_KV.webp/300px-Tensei_Ojisan_KV.webp.png"
+          "title": "再见，地球",
+          "displayTitle": "再见，地球 第二季",
+          "description": "《再见，地球》（日语：ばいばい、アース；英语：Bye Bye, Earth）是由冲方丁创作的一部小说，并有漫画、动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/5a/Bye_Bye_Earth_Anime_KV2.jpg/300px-Bye_Bye_Earth_Anime_KV2.jpg"
         },
         {
-          "title": "终究、与你相恋",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/da/Koishima_KV.jpg/300px-Koishima_KV.jpg"
+          "title": "男女之间存在纯友情吗？（不，不存在！）",
+          "description": "《男女之间的友情存在吗?(不,不存在!!)》（日语：男女の友情は成立する?(いや、しないっ!!)）是由七菜なな创作、由Parum担任插画的一部轻小说，并有漫画、动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/4d/Danjoru_KV2.jpg/300px-Danjoru_KV2.jpg"
         },
         {
-          "title": "我决定和班上最讨厌的女生结婚了",
-          "description": "《我决定和班上最讨厌的女生结婚了》（日语：クラスの大嫌いな女子と結婚することになった）是由天乃聖樹创作、由成海七海担任插画的一部轻小说，并有漫画、动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/16/Kurakon_KV.jpg/300px-Kurakon_KV.jpg"
+          "title": "推理要在晚餐后",
+          "description": "《推理要在晚餐后》（日语：謎解きはディナーのあとで）是由东川笃哉创作的一部推理小说，并有漫画、电视剧等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/b/b6/Nazod_Teaser1.jpg/300px-Nazod_Teaser1.jpg"
         },
         {
-          "title": "精灵来日",
-          "description": "《精灵来日》（日语：日本へようこそエルフさん。；英语：Welcome To Japan, Ms. Elf!）是由まきしま鈴木执笔撰写，ヤッペン绘制插画，由HobbyJAPAN出版的小说，并有漫画、动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/08/Welcome_Elfsan_Teaser2.jpg/300px-Welcome_Elfsan_Teaser2.jpg"
+          "title": "浣熊 卡尔卡尔团",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d4/Calcaldan_KV.jpg/300px-Calcaldan_KV.jpg"
         },
         {
-          "title": "想星的大天使 Myth of Emotions",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/94/Aq_Moe_KV.jpg/300px-Aq_Moe_KV.jpg"
+          "title": "呜莓猫猫",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/05/Nmeneko_Teaser.jpg/300px-Nmeneko_Teaser.jpg"
         },
         {
-          "title": "Momentary Lily",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/59/Momentary_Lily_KV.jpg/300px-Momentary_Lily_KV.jpg"
-        },
-        {
-          "title": "魔农传记",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/12/Farmagia_Teaser.jpg/300px-Farmagia_Teaser.jpg"
+          "title": "来吧魔法少女村（非法占据）",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/14/Agamalgam.jpg/300px-Agamalgam.jpg"
         }
       ]
     },
@@ -190,47 +228,68 @@
       "label": "周六",
       "pages": [
         {
-          "title": "坂本日常",
-          "description": "《坂本日常》是由铃木祐斗创作的一部漫画。于《周刊少年Jump》2020年第51号开始连载、台湾杂志《宝岛少年》于2021年第25期开始连载。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/fe/Sakamotodays_KV.jpg/300px-Sakamotodays_KV.jpg"
+          "title": "城市风云儿",
+          "displayTitle": "真·侍传 剑勇传说",
+          "description": "《城市風雲兒》（日語：YAIBA），又名九龍珠、劍勇傳說等，是日本漫畫家青山剛昌的作品。於1988年開始在《周刊少年SUNDAY》上連載，現已完結，單行本共24卷，有發行文庫版、新裝版。該漫畫榮獲第38届小學館漫畫獎，1993年以《劍勇傳說YAIBA》（日語：剣勇伝説YAIBA）這個名稱作成動畫，並衍生有TV動畫與遊戲。\n作品中的部分角色在作者的另一部作品《名偵探柯南》中也有串場。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/18/Yaiba_KV.jpg/300px-Yaiba_KV.jpg"
         },
         {
-          "title": "魔域英雄传说",
-          "description": "《魔域英雄传说》（日语：Übel Blatt（ユーベルブラット））是由盐野干支郎次创作的一部漫画。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/99/Ubel_Blatt_visual_03.jpg/300px-Ubel_Blatt_visual_03.jpg"
+          "title": "炎炎消防队",
+          "displayTitle": "炎炎消防队 叁之章(前半)",
+          "description": "《炎炎消防队》（日语：炎炎ノ消防隊）是日本漫画家大久保笃创作的少年漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/a1/Enn_Enn_no_Shouboutai_S3_Teaser2.webp/300px-Enn_Enn_no_Shouboutai_S3_Teaser2.webp.png"
         },
         {
-          "title": "嘻嘻嘻嘻吸血鬼",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/32/BABABA_KV2.jpg/300px-BABABA_KV2.jpg"
+          "title": "黑执事",
+          "displayTitle": "黑执事 绿之魔女篇",
+          "description": "《黑执事》（日语：黒執事；英语：Black Butler）是由枢梁创作的一部漫画，并有动画、广播剧等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d5/Kuroshitsuji_S5_KV.jpg/300px-Kuroshitsuji_S5_KV.jpg"
         },
         {
-          "title": "虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS",
-          "description": "《虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS》（日语：ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います）是由香坂マト原作、がおう插画的一部轻小说，并有漫画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/ef/Girumasu_KV.jpg/300px-Girumasu_KV.jpg"
+          "title": "打了300年的史莱姆，不知不觉就练到了满级",
+          "displayTitle": "打了300年的史莱姆，不知不觉就练到了满级 第二季",
+          "description": "《持续狩猎史莱姆三百年，不知不觉就练到LV MAX》（日语：スライム倒して300年、知らないうちにレベルMAXになってました；英語：I've Been Killing Slimes for 300 Years and Maxed Out My Level）是由森田季节原作、 红绪插画的一部轻小说，并有漫画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/82/Slime300_Anime_S2_KV4.jpg/300px-Slime300_Anime_S2_KV4.jpg"
         },
         {
-          "title": "S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活",
-          "description": "《S级怪兽〈贝希摩斯〉被误认成小猫，成为精灵女孩的骑士（宠物）一起生活》（日语：Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士（ペット）として暮らしてます；英语：I'm a Behemoth, an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet/I am Behemoth of the S rank monster, but I mistaken as a cat and I live as a pet of Elf girl.）是由銀翼のぞみ创作的一部轻小说，并有漫画、动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/47/Behemoth_KV2.jpg/300px-Behemoth_KV2.jpg"
+          "title": "九龙大众浪漫",
+          "description": "《九龙大众浪漫》（日语：九龍ジェネリックロマンス，英语：Kowloon Generic Romance）是由眉月じゅん创作的一部漫画，并有电影、动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/a6/Kowloongr_KV.jpg/300px-Kowloongr_KV.jpg"
         },
         {
-          "title": "一杆青空",
-          "description": "《一杆青空》是Yostar Pictures制作的一部原创电视动画，其中短篇动画于2021年12月31日播出，全1话。系列动画于2025年1月3日播出。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/52/Sora_Iro_Utility_TV_KV2.png/300px-Sora_Iro_Utility_TV_KV2.png"
+          "title": "乡下大叔成为剑圣~只是区区乡下剑术师傅，成大器的弟子们却不肯放过我~",
+          "displayTitle": "乡下大叔成为剑圣",
+          "description": "《乡下大叔成为剑圣~只是区区乡下剑术师傅，成大器的弟子们却不肯放过我~》（日语：片田舎のおっさん、剣聖になる　～ただの田舎の剣術師範だったのに、大成した弟子たちが俺を放ってくれない件～）是由佐賀崎しげる执笔撰写，鍋島テツヒロ绘制插画，由史克威尔艾尼克斯出版的小说。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/22/Ossan_Kensei_KV1.webp/300px-Ossan_Kensei_KV1.webp.png"
         },
         {
-          "title": "UniteUp!",
-          "displayTitle": "UniteUp! -Uni:Birth-",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d2/UniteUp_S2_KV.jpg/300px-UniteUp_S2_KV.jpg"
+          "title": "神统记",
+          "description": "《神统记》（日语：神統記（テオゴニア）；英语：Teogonia）是由谷舞司创作的一部轻小说，并有漫画、动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/e6/Teogonia_KV.jpg/300px-Teogonia_KV.jpg"
         },
         {
-          "title": "卡片战斗先导者/动画",
-          "displayTitle": "卡片战斗先导者 DivineZ DELUXE篇",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d6/Vanguard_DivineZ_S3.jpg/300px-Vanguard_DivineZ_S3.jpg"
+          "title": "罪恶装备系列",
+          "displayTitle": "罪恶装备 STRIVE：双尺",
+          "description": "《罪恶装备》系列（日语：ギルテイギア，英语：Guilty Gear，也译为：圣骑士之战）是由亚克系统制作的一款格斗游戏，该系列初代最早于1998年5月14日发行。主题以代号“GEAR计划”为中心开始了一系列斗争。罪恶装备系列剧情规模宏大，由《罪恶装备 奋战》为系列画上了句号。\n自Xrd系列开始至今游戏使用卡通渲染技术，人物场景模型全部重制作、声优更换以及新角色登场，让这一系列得到新生。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/58/DUAL_RULERS_KV.png/300px-DUAL_RULERS_KV.png"
         },
         {
-          "title": "迷你迷你 minini",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/ea/Minini.webp/300px-Minini.webp.png"
+          "title": "安妮·雪利(动画)",
+          "displayTitle": "安妮·雪利",
+          "description": "《安妮·雪利》（アン·シャーリー）是根据加拿大女作家露西·莫德·蒙哥马利于1908年所写的小说《绿山墙的安妮》改编的日本电视动画。于2025年4月5日在NHK E-Tele播放，全24话。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/23/Anne_Shirley_2025.jpg/300px-Anne_Shirley_2025.jpg"
+        },
+        {
+          "title": "SHIBUYA♡HACHI",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/77/SHIBUYA_HACHI_S3_KV.jpg/300px-SHIBUYA_HACHI_S3_KV.jpg"
+        },
+        {
+          "title": "Everyday Host",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/0c/Everyday_Host_Teaser.jpg/300px-Everyday_Host_Teaser.jpg"
+        },
+        {
+          "title": "怪兽世界征服",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/0/06/Kaijusekaiseifuku_KV.png/300px-Kaijusekaiseifuku_KV.png"
         }
       ]
     },
@@ -239,84 +298,90 @@
       "label": "周日",
       "pages": [
         {
-          "title": "魔法使光之美少女！！～MIRAI DAYS～",
-          "description": "《魔法使光之美少女！！～MIRAI DAYS～》（魔法つかいプリキュア！！～MIRAI DAYS～）是由东映动画、Studio Deen制作的光之美少女系列动画作品，于2025年1月在日本开始播出。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/17/Mahopre_KV.webp/300px-Mahopre_KV.webp.png"
+          "title": "赛马娘 芦毛灰姑娘",
+          "description": "《赛马娘 芦毛灰姑娘》是Cygames原作，漫画家久住太阳作画的漫画作品，《赛马娘 Pretty Derby》的小栗帽外传漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/6e/Cinderellagray_KV.jpg/300px-Cinderellagray_KV.jpg"
         },
         {
-          "title": "超超超超超喜欢你的100个女朋友",
-          "displayTitle": "超超超超超喜欢你的100个女朋友 第二季",
-          "description": "《超超超超超喜欢你的100个女朋友》（日语：君のことが大大大大大好きな１００人の彼女）是由中村力斗原作、野泽由纪子作画的一部漫画。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/23/Hyakkano_S2_KV.webp/300px-Hyakkano_S2_KV.webp.png"
+          "title": "战队大失格",
+          "displayTitle": "战队大失格 第二季",
+          "description": "《战队大失格》（日语：戦隊大失格）是春场葱于《周刊少年Magazine》上连载的漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/a9/Sentai_DaiShikkaku_S2_Teaser2.jpg/300px-Sentai_DaiShikkaku_S2_Teaser2.jpg"
         },
         {
-          "title": "地缚少年花子君",
-          "displayTitle": "地缚少年花子君 第二季",
-          "description": "《地缚少年花子君》（日语：地縛少年花子くん），是由あいだいろ创作的一部漫画，并有动画、音乐剧等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/f/f6/Hanakokun_S2_Teaser2.jpg/300px-Hanakokun_S2_Teaser2.jpg"
+          "title": "小市民系列",
+          "displayTitle": "小市民系列 第2期",
+          "description": "小市民系列（日语：〈小市民〉シリーズ）是日本作家米泽穗信创作的推理小说系列。有漫画、电视动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/e/ef/Shoshimin_S2KV.webp/300px-Shoshimin_S2KV.webp.png"
         },
         {
-          "title": "我独自升级",
-          "displayTitle": "我独自升级 第二季",
-          "description": "《我独自升级》（韩语：나 혼자만 레벨업，日语：俺だけレベルアップな件，英语：Solo Leveling）是由韩国作家Chugong担任原作、原案的小说，并有漫画、动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/2c/Solo_Leveling_S2_KV.jpg/300px-Solo_Leveling_S2_KV.jpg"
+          "title": "LAZARUS",
+          "description": "《LAZARUS》（日文：LAZARUS ラザロ）是由MAPPA制作，渡边信一郎担任监督的一部原创动画作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/9e/Lazarus_KV.jpg/300px-Lazarus_KV.jpg"
         },
         {
-          "title": "青之驱魔师",
-          "displayTitle": "青之驱魔师 终夜篇",
-          "description": "《青之驱魔师》（日语：青の祓魔師；英语：BLUE EXORCIST）是由加藤和惠创作的一部漫画，并有动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/6d/Aoex_S3_KV5.jpg/300px-Aoex_S3_KV5.jpg"
+          "title": "时光流逝，饭菜依旧美味",
+          "description": "《时光流逝，饭菜依旧美味》（日文：日々は過ぎれど飯うまし），是由P.A.WORKS制作，川面真也&春水融担任监督、比企能博担任系列构成的一部原创动画作品，于2025年4月12日放送，并有漫画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/db/Hibimeshi_KV.jpg/300px-Hibimeshi_KV.jpg"
         },
         {
-          "title": "筋肉人",
-          "displayTitle": "筋肉人 完璧超人始祖篇 第二季",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/2e/Kin29man_KV3.webp/300px-Kin29man_KV3.webp.png"
+          "title": "魔女与使魔",
+          "description": "《魔女与使魔》（日语：ウィッチウォッチ）是篠原健太创作的一部漫画，并有动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/3/38/WITCH_WATCH_KV.webp/300px-WITCH_WATCH_KV.webp.png"
         },
         {
-          "title": "舞冰的祈愿",
-          "description": "《舞冰的祈愿》（日语：メダリスト）是由つるまいかだ创作的一部漫画。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/71/Medalist_KV.jpg/300px-Medalist_KV.jpg"
+          "title": "mono",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/d4/Mono_KV.jpg/300px-Mono_KV.jpg"
         },
         {
-          "title": "战队红战士在异世界当冒险者",
-          "description": "《战队红战士在异世界当冒险者》（日语：戦隊レッド 異世界で冒険者になる；英语：The Red Ranger Becomes an Adventurer in Another World）是由中吉虎吉创作的一部漫画，并有动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1a/Kizunafive_KV.webp/300px-Kizunafive_KV.webp.png"
+          "title": "受到猩猩神的庇护的大小姐在王立骑士团受到宠爱",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/5/58/Gorilla_Lady_KV.jpg/300px-Gorilla_Lady_KV.jpg"
         },
         {
-          "title": "我与尼特女忍者的莫名同居生活",
-          "description": "《我与尼特女忍者的莫名同居生活》（日语：ニートくノ一となぜか同棲はじめました）是由小龙创作，八木戸マト担任分镜构成的一部漫画，并有动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/2/27/Neet_Kunoichi_KV3.jpg/300px-Neet_Kunoichi_KV3.jpg"
+          "title": "干杂活我乃最强～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～",
+          "displayTitle": "干杂活我乃最强",
+          "description": "《干杂活我乃最强～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～》（日语：勘違いの工房主（アトリエマイスター）～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～；英语：The Unaware Atelier Master）是由时野洋辅创作的一部轻小说，并有漫画、动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/4c/Kanchigai_KV.webp/300px-Kanchigai_KV.webp.png"
         },
         {
-          "title": "喜欢的冲绳妹说方言",
-          "description": "《喜欢的冲绳妹说方言》（日语：沖縄で好きになった子が方言すぎてツラすぎる；英语：The Dialect of the Girl I Fell in Love With in Okinawa is too Difficult to Deal With）是由空えぐみ创作的一部漫画，并有动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/9/91/Okitsura_KV2.jpg/300px-Okitsura_KV2.jpg"
+          "title": "我是星际国家的恶德领主！",
+          "description": "《我是星际国家的恶德领主！》（日语：俺は星間国家の悪徳領主！；英语：I'm the Evil Lord of an Intergalactic Empire!/I am the Villainous Lord of the Interstellar Nation）是由三岛与梦执笔撰写，高峰ナダレ绘制插画，由OVERLAP出版的小说，并有漫画、动画等衍生作品。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/c/c9/Akutoku_Ryoshu_KV2.jpg/300px-Akutoku_Ryoshu_KV2.jpg"
         },
         {
-          "title": "离开A级队伍的我，和从前的弟子往迷宫深处迈进",
-          "description": "《离开A级队伍的我，和从前的弟子往迷宫深处迈进》（日语：Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。；英语：I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths!）是由右薙光介创作的一部轻小说，并有漫画、动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/69/Aparida_KV.jpg/300px-Aparida_KV.jpg"
+          "title": "前桥魔女",
+          "description": "《前桥魔女》（日语：前橋ウィッチーズ）是由日昇 Studios制作的一部原创动画。2025年4月6日开始在中国大陆Bilibili、日本TOKYO MX上播出，共12话。前桥魔女中的前桥指日本关东地区群马县前桥市。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/a/a3/Maebashi_Witches_KV.jpg/300px-Maebashi_Witches_KV.jpg"
         },
         {
-          "title": "想摆脱公主教育的我",
-          "description": "《想摆脱公主教育的我》（日语：妃教育から逃げたい私；英语：I Want to Escape from Princess Lessons/I want to escape from princess education）是由沢野いずみ创作的一部轻小说，并有漫画、动画等衍生作品。",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/d/db/Kisakikyouiku_KV.webp/300px-Kisakikyouiku_KV.webp.png"
+          "title": "Princess Session Orchestra",
+          "description": "《Princess Session Orchestra》（日语：プリンセッション・オーケストラ）是由SILVER LINK.制作的一部原创动画。于2025年4月6日开始，每周日早上9点（日本时间）在日本东京电视台系列播出。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/6f/Pri_Orchestra_Teaser.jpg/300px-Pri_Orchestra_Teaser.jpg"
         },
         {
-          "title": "魔神创造传",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/42/Wataru2025.webp/300px-Wataru2025.webp.png"
+          "title": "Classic★Stars",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/8/83/Classic_Stars_KV.jpg/300px-Classic_Stars_KV.jpg"
         },
         {
-          "title": "0岁儿童开始冲刺的故事",
-          "displayTitle": "0岁儿童开始冲刺的故事 第二季",
-          "imageSrc": "https://img.moegirl.org.cn/common/thumb/4/44/HEAD_START_AT_BIRTH.jpg/300px-HEAD_START_AT_BIRTH.jpg"
+          "title": "秘密的偶像公主",
+          "displayTitle": "秘密的偶像公主 环篇",
+          "description": "《秘密的偶像公主》是由OLM和Dongwoo A&E制作的一部少儿魔法动画。于2024年4月7日开始在东京电视网上播出。",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/1/1a/Aipri_KV3.jpg/300px-Aipri_KV3.jpg"
+        },
+        {
+          "title": "正能量企鹅",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/6/60/Koupenchan.jpg/300px-Koupenchan.jpg"
+        },
+        {
+          "title": "异种最强王图鉴",
+          "imageSrc": "https://img.moegirl.org.cn/common/thumb/7/79/Saikyooh_TUT.jpg/300px-Saikyooh_TUT.jpg"
         }
       ]
     }
   ],
   "meta": {
     "header": "本周新番",
-    "readMoreText": "日本2024年秋季动画",
-    "readMoreUrl": "/index.php?utm_medium=bangumi_list&title=%E6%97%A5%E6%9C%AC2024%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%8A%A8%E7%94%BB&utm_source=moe_homeland"
+    "readMoreText": "日本2025年春季动画",
+    "readMoreUrl": "/index.php?utm_medium=bangumi_list&title=日本2025年春季动画&utm_source=moe_homeland"
   }
 }
