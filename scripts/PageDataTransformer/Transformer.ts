@@ -6,6 +6,8 @@ export interface TableToJsonOptions {
   apiEndpoint: string
   thumbWidth?: number
   indexLabelMap?: Record<string, any>
+  /** Fallback label for rows without a label (e.g. broadcast time TBD). */
+  fallbackLabel?: string
   meta?: PageListMeta
 }
 
@@ -31,13 +33,16 @@ export class TableToJson {
   async transform() {
     this.content
       .split('\n')
-      .map((i) => i.trim())
-      .filter((i) => !!i)
+      // Only trim trailing whitespace: a leading tab marks an empty label
+      // column (e.g. broadcast time TBD) and must be preserved.
+      .map((i) => i.replace(/\s+$/, ''))
+      .filter((i) => !!i.trim())
       .forEach((i) => {
         let [label, title, displayTitle = '', imageSrc = '', description = ''] =
           i.split('	')
 
         title = TableToJson.adjustTitle(title)
+        label = label || this.options.fallbackLabel || ''
         // imageSrc = imageSrc.includes('/thumb')
         //   ? imageSrc.replace(
         //       /https:\/\/img.moegirl.org.cn\/common\/thumb\/.{1,2}\/.{1,2}\/(.+)\/.+/,

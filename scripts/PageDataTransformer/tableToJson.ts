@@ -34,7 +34,9 @@ Promise.all(
           周五: 'friday',
           周六: 'saturday',
           周日: 'sunday',
+          未知: 'unknown',
         },
+        fallbackLabel: '未知',
         meta: file.includes('weekly-bangumi')
           ? {
               header: '本周新番',
