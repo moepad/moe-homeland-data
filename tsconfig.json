@@ -1,28 +1,15 @@
 {
-  "include": [
-    "env.d.ts",
-    "src/**/*",
-    "src/**/*.vue",
-    "./node_modules/types-mediawiki",
-    "vite.config.*",
-    "vitest.config.*",
-    "cypress.config.*",
-    "playwright.config.*",
-    "scripts/**/*",
-    "./plugins"
-  ],
+  "include": ["scripts/**/*"],
   "compilerOptions": {
     "target": "ESNext",
     "module": "ESNext",
-    "moduleResolution": "Node",
+    "moduleResolution": "bundler",
+    "types": ["node"],
     "strict": true,
-    "jsx": "preserve",
-    "sourceMap": true,
+    "noEmit": true,
     "resolveJsonModule": true,
     "esModuleInterop": true,
-    "lib": ["ESNext", "DOM"],
-    "paths": {
-      "@/*": ["./src/*"]
-    }
+    "skipLibCheck": true,
+    "lib": ["ESNext"]
   }
 }
