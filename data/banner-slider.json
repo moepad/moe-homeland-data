@@ -8,7 +8,18 @@
           "title": "萌娘百科官方周边开售！",
           "externalUrl": "https://item.taobao.com/item.htm?id=829392312809",
           "description": "“马克杯也是杯”",
-          "imageSrc": "https://storage.moegirl.org.cn/console-plus/uploads/2024/10/15/38c90297530bfd6eef4f4655919a7a99.jpeg"
+          "imageSrc": "https://storage.moegirl.org.cn/console-plus/uploads/2024/10/15/38c90297530bfd6eef4f4655919a7a99.jpeg",
+          "enableFrom": "2023-06-06T18:00:00+08:00",
+          "enableTo": "2026-04-01T17:59:59+08:00",
+          "// 源初说周边卖完了，暂时下掉": ""
+        },
+        {
+          "title": "你有一封邀请函已送达",
+          "externalUrl": "https://mzh.moegirl.org.cn/_?curid=647031",
+          "description": "为兔兔的诞生献上胡萝卜~！",
+          "imageSrc": "https://storage.moegirl.org.cn/console-plus/uploads/2026/07/31/c33c48d5e37baad3ca4eea27796e7405.jpeg",
+          "enableFrom": "2026-07-30T18:00:00+08:00",
+          "enableTo": "2026-08-03T23:59:59+08:00"
         },
         {
           "title": "广告位招租",
